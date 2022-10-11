@@ -1,0 +1,18 @@
+﻿Classification,Key
+Fix Ad Hoc,Fix†
+Fix2 (classified as fix in second round),Fix2
+Float1 (classified as float in first round),Float1
+Dirty Float2 ,Interm2
+Fix U,Fix*
+Unclassified One Variable Missing (OVM),OVM
+Float2,Float2
+Basket,Basket
+Crawling Peg2,Interm*2
+Crawling Peg1,Interm*1
+Dirty Float Outlier,Interm3
+Fix1,Fix1
+Unclassified Inconclusives,Incon
+Crawling Peg Outlier,Interm*3
+Float U,Float*
+Fix Outlier,Fix3
+NON (non-existing or non-independent country),NON
