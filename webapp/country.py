@@ -1,30 +1,53 @@
 import streamlit as st
 import pandas as pd
-import altair as alt
-import matplotlib.pyplot as plt
+import io
+
+buffer = io.BytesIO()
 
 def run_app():
 
     df = pd.read_csv("puki.csv")
     legend = pd.read_csv("legend.csv")
 
+    # Dropdown para elegir país
     option = st.selectbox(
         'Select a country',
         df['Country'].unique())
 
+    # Slider para elegir años
     values = st.slider(
         'Select a range of years',
         1974, 2021, (1974, 2021))
 
-
+    # Dataframe que se queda con solo el país elegido en los años elegidos
+    df_temp = df.loc[(df['Country'] == option) & (df['Year'] <= values[1]) &
+     (df['Year'] >= values[0])][['Year','3-way','5-way']] #'Final Classification' no incluído
 
     title = "Exchange Rate Regime of " + option
     st.markdown('### ' + title)
 
-     #& df['Year'] < values[1] & df['Year'] > values[0]
-    df_temp = df.loc[(df['Country'] == option) & (df['Year'] <= values[1]) & (df['Year'] >= values[0])][['Year','Final Classification','3-way','5-way']]
+    col1, col2 = st.columns([1,3.5])
 
-    # Para ocultar el nro de fila
+    with col1:
+        csv1 = df_temp.to_csv(index=0)
+
+        st.download_button(
+        label = "Download as CSV",
+        data = csv1,
+        file_name = option + '.csv',
+        mime = 'text/csv',
+        )
+
+    with col2:
+        with open("puki.csv", "rb") as file:
+            st.download_button(
+            label="Download whole database as CSV",
+            data=file,
+            file_name = 'LYSclassification.csv',
+            mime='text/csv'
+            )
+
+    # Para ocultar el nro de fila en el output
     hide_table_row_index = """
             <style>
             thead tr th:first-child {display:none}
@@ -41,4 +64,4 @@ def run_app():
     st.sidebar.markdown('### Legend:')
     st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM,NON')
     st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM,NON')
-    st.sidebar.table(legend.iloc[2: , :])
+    st.sidebar.table(legend.iloc[1: , :])
