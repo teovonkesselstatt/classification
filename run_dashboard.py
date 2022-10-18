@@ -1,5 +1,5 @@
 from webapp import app
-from streamlit import cli as stcli
+from streamlit.web import cli as stcli
 import streamlit as st
 import sys
 
