@@ -21,7 +21,7 @@ def run_app():
 
     # Dataframe que se queda con solo el país elegido en los años elegidos
     df_temp = df.loc[(df['Country'] == option) & (df['Year'] <= values[1]) &
-     (df['Year'] >= values[0])][['Year','3-way','5-way']] #'Final Classification' no incluído
+     (df['Year'] >= values[0])][['Year','3-way','5-way','Reference Currency']] #'Final Classification' no incluído
 
     title = "Exchange Rate Regime of " + option
     st.markdown('### ' + title)
