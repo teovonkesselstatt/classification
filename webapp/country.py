@@ -12,7 +12,8 @@ def run_app():
     # Dropdown para elegir país
     option = st.selectbox(
         'Select a country',
-        df['Country'].unique())
+        df['Country'].unique(),
+        index = 6)
 
     # Slider para elegir años
     values = st.slider(
