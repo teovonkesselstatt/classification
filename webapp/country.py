@@ -63,6 +63,7 @@ def run_app():
     st.table(df_temp.sort_values(by=['Year'], ascending=False))
 
     st.sidebar.markdown('### Legend:')
-    st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM,NON')
-    st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM,NON')
-    st.sidebar.table(legend.iloc[1: , :])
+    st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country)')
+    st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON')
+    # Si no está la Final Classification, no tiene sentido que esté toda la tabla!
+    # st.sidebar.table(legend.iloc[1: , :])
