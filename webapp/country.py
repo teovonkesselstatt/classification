@@ -67,6 +67,8 @@ def run_app():
     st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON')
     st.sidebar.write('*Industrial Countries')
     st.sidebar.write('**Emerging Economies')
+    st.sidebar.write('#### Reference:')
+    st.sidebar.write('[Classifying Exchange Rate Regimes: 20 Years Later](https://ideas.repec.org/p/sad/wpaper/166.html)')
 
     # Si no está la Final Classification, no tiene sentido que esté toda la tabla!
     # st.sidebar.table(legend.iloc[1: , :])
