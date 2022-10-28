@@ -24,6 +24,8 @@ def run_app():
     df_temp = df.loc[(df['Country'] == option) & (df['Year'] <= values[1]) &
      (df['Year'] >= values[0])][['Year','3-way','5-way','Reference Currency']] #'Final Classification' no incluído
 
+    df_temp = df_temp.loc[df_temp['3-way'] != 'NON']
+
     title = "Exchange Rate Regime of " + option
     st.markdown('### ' + title)
 
