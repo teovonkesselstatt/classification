@@ -6,7 +6,7 @@ buffer = io.BytesIO()
 
 def run_app():
 
-    df = pd.read_csv("puki.csv")
+    df = pd.read_csv("LYS2022.csv")
     legend = pd.read_csv("legend.csv")
 
     # Dropdown para elegir país
@@ -40,7 +40,7 @@ def run_app():
         )
 
     with col2:
-        with open("puki.csv", "rb") as file:
+        with open("LYS2022.csv", "rb") as file:
             st.download_button(
             label="Download whole database as CSV",
             data=file,
@@ -63,7 +63,7 @@ def run_app():
     st.table(df_temp.sort_values(by=['Year'], ascending=False))
 
     st.sidebar.markdown('### Legend:')
-    st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country)')
+    st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country), Not Classified: undisclosed basket, Not Classified: too little volatility in variables.')
     st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON')
     st.sidebar.write('*Industrial Countries')
     st.sidebar.write('**Emerging Economies')
