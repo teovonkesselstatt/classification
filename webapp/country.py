@@ -22,7 +22,7 @@ def run_app():
 
     # Dataframe que se queda con solo el país elegido en los años elegidos
     df_temp = df.loc[(df['Country'] == option) & (df['Year'] <= values[1]) &
-     (df['Year'] >= values[0])][['Year','3-way','5-way','Reference Currency']] #'Final Classification' no incluído
+     (df['Year'] >= values[0])][['Year','3-way','4-way','Reference Currency']] #'Final Classification' no incluído
 
     df_temp = df_temp.loc[df_temp['3-way'] != 'NON']
 
@@ -65,7 +65,7 @@ def run_app():
     st.table(df_temp.sort_values(by=['Year'], ascending=False))
 
     st.sidebar.markdown('### Legend:')
-    st.sidebar.write('5-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country), Not Classified: undisclosed basket or too little volatility in variables.')
+    st.sidebar.write('4-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country), Not Classified: undisclosed basket or too little volatility in variables.')
     st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON, Not Classified (Basket), Not Classified: (Low Volatility).')
     st.sidebar.write('*Industrial Countries')
     st.sidebar.write('**Emerging Economies')
