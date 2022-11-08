@@ -65,8 +65,8 @@ def run_app():
     st.table(df_temp.sort_values(by=['Year'], ascending=False))
 
     st.sidebar.markdown('### Legend:')
-    st.sidebar.write('4-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country), Not Classified: Undisclosed Basket or too little volatility in variables.')
-    st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON, Not Classified (Basket), Not Classified: (Low Volatility).')
+    st.sidebar.write('4-way Classification: Fix, Crawling Peg, Dirty Float, Float, OVM (Unclassified One Variable Missing), NON (non-existing or non-independent country), Not Classified: Undisclosed Basket or too little volatility in variables (Low Volatility).')
+    st.sidebar.write('3-way Classification: Fix, Interm, Float, OVM, NON, Undisclosed Basket, Low Volatility.')
     st.sidebar.write('*Industrial Countries')
     st.sidebar.write('**Emerging Economies')
     st.sidebar.write('#### Reference:')
