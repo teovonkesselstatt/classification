@@ -1,4 +1,4 @@
-Country,Year,Final Classification,3-way,4-way,Reference Currency
+﻿Country,Year,Final Classification,3-way,4-way,Reference Currency
 "Afghanistan, Islamic Republic of",1974,Fix†,Fix,Fix,US dollar
 "Afghanistan, Islamic Republic of",1975,Fix2,Fix,Fix,US dollar
 "Afghanistan, Islamic Republic of",1976,Fix2,Fix,Fix,US dollar
@@ -95,26 +95,26 @@ Albania,2018,Interm2,Interm,Dirty Float,Euro
 Albania,2019,Interm2,Interm,Dirty Float,Euro
 Albania,2020,Float1,Float,Float,Euro
 Albania,2021,Float2,Float,Float,Euro
-Algeria**,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Algeria**,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Algeria**,1994,Interm1,Interm,Dirty Float,US dollar
 Algeria**,1995,Float1,Float,Float,US dollar
 Algeria**,1996,Interm2,Interm,Dirty Float,US dollar
@@ -135,8 +135,8 @@ Algeria**,2010,Interm2,Interm,Dirty Float,US dollar
 Algeria**,2011,Interm2,Interm,Dirty Float,US dollar
 Algeria**,2012,Float1,Float,Float,US dollar
 Algeria**,2013,Float1,Float,Float,US dollar
-Algeria**,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Algeria**,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Algeria**,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Algeria**,2015,Basket,Undisclosed Basket,Undisclosed Basket,
 Algeria**,2016,Float2,Float,Float,US dollar
 Algeria**,2017,Interm2,Interm,Dirty Float,US dollar
 Algeria**,2018,Interm2,Interm,Dirty Float,US dollar
@@ -191,8 +191,8 @@ Andorra,2018,OVM,OVM,OVM,Euro
 Andorra,2019,OVM,OVM,OVM,Euro
 Andorra,2020,OVM,OVM,OVM,Euro
 Andorra,2021,OVM,OVM,OVM,Euro
-Angola,1974,NON,NON,NON,NaN
-Angola,1975,NON,NON,NON,NaN
+Angola,1974,NON,NON,NON,
+Angola,1975,NON,NON,NON,
 Angola,1976,OVM,OVM,OVM,US dollar
 Angola,1977,Fix*,Fix,Fix,US dollar
 Angola,1978,Fix*,Fix,Fix,US dollar
@@ -383,18 +383,18 @@ Argentina**,2021,OVM,OVM,OVM,US dollar
 "Armenia, Republic of",2019,Float2,Float,Float,US dollar
 "Armenia, Republic of",2020,Float1,Float,Float,US dollar
 "Armenia, Republic of",2021,Float1,Float,Float,US dollar
-Aruba,1974,NON,NON,NON,NaN
-Aruba,1975,NON,NON,NON,NaN
-Aruba,1976,NON,NON,NON,NaN
-Aruba,1977,NON,NON,NON,NaN
-Aruba,1978,NON,NON,NON,NaN
-Aruba,1979,NON,NON,NON,NaN
-Aruba,1980,NON,NON,NON,NaN
-Aruba,1981,NON,NON,NON,NaN
-Aruba,1982,NON,NON,NON,NaN
-Aruba,1983,NON,NON,NON,NaN
-Aruba,1984,NON,NON,NON,NaN
-Aruba,1985,NON,NON,NON,NaN
+Aruba,1974,NON,NON,NON,
+Aruba,1975,NON,NON,NON,
+Aruba,1976,NON,NON,NON,
+Aruba,1977,NON,NON,NON,
+Aruba,1978,NON,NON,NON,
+Aruba,1979,NON,NON,NON,
+Aruba,1980,NON,NON,NON,
+Aruba,1981,NON,NON,NON,
+Aruba,1982,NON,NON,NON,
+Aruba,1983,NON,NON,NON,
+Aruba,1984,NON,NON,NON,
+Aruba,1985,NON,NON,NON,
 Aruba,1986,OVM,OVM,OVM,US dollar
 Aruba,1987,Fix2,Fix,Fix,US dollar
 Aruba,1988,Fix2,Fix,Fix,US dollar
@@ -431,16 +431,16 @@ Aruba,2018,Fix†,Fix,Fix,US dollar
 Aruba,2019,Fix†,Fix,Fix,US dollar
 Aruba,2020,Fix†,Fix,Fix,US dollar
 Aruba,2021,Fix†,Fix,Fix,US dollar
-Australia*,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Australia*,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Australia*,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Australia*,1983,Basket,Undisclosed Basket,Undisclosed Basket,
 Australia*,1984,Float1,Float,Float,US dollar
 Australia*,1985,Interm*1,Interm,Crawling Peg,US dollar
 Australia*,1986,Interm*1,Interm,Crawling Peg,US dollar
@@ -479,13 +479,13 @@ Australia*,2018,Float1,Float,Float,US dollar
 Australia*,2019,Float1,Float,Float,US dollar
 Australia*,2020,Interm*1,Interm,Crawling Peg,US dollar
 Australia*,2021,Fix1,Fix,Fix,US dollar
-Austria*,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Austria*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Austria*,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Austria*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
 Austria*,1981,Incon,Low Volatility,Low Volatility,German Mark
 Austria*,1982,Incon,Low Volatility,Low Volatility,German Mark
 Austria*,1983,Incon,Low Volatility,Low Volatility,German Mark
@@ -527,23 +527,23 @@ Austria*,2018,Float*,Float,Float,Euro
 Austria*,2019,Float*,Float,Float,Euro
 Austria*,2020,Float*,Float,Float,Euro
 Austria*,2021,Float*,Float,Float,Euro
-"Azerbaijan, Republic of",1974,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1975,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1976,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1977,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1978,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1979,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1980,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1981,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1982,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1983,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1984,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1985,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1986,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1987,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1988,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1989,NON,NON,NON,NaN
-"Azerbaijan, Republic of",1990,NON,NON,NON,NaN
+"Azerbaijan, Republic of",1974,NON,NON,NON,
+"Azerbaijan, Republic of",1975,NON,NON,NON,
+"Azerbaijan, Republic of",1976,NON,NON,NON,
+"Azerbaijan, Republic of",1977,NON,NON,NON,
+"Azerbaijan, Republic of",1978,NON,NON,NON,
+"Azerbaijan, Republic of",1979,NON,NON,NON,
+"Azerbaijan, Republic of",1980,NON,NON,NON,
+"Azerbaijan, Republic of",1981,NON,NON,NON,
+"Azerbaijan, Republic of",1982,NON,NON,NON,
+"Azerbaijan, Republic of",1983,NON,NON,NON,
+"Azerbaijan, Republic of",1984,NON,NON,NON,
+"Azerbaijan, Republic of",1985,NON,NON,NON,
+"Azerbaijan, Republic of",1986,NON,NON,NON,
+"Azerbaijan, Republic of",1987,NON,NON,NON,
+"Azerbaijan, Republic of",1988,NON,NON,NON,
+"Azerbaijan, Republic of",1989,NON,NON,NON,
+"Azerbaijan, Republic of",1990,NON,NON,NON,
 "Azerbaijan, Republic of",1991,OVM,OVM,OVM,
 "Azerbaijan, Republic of",1992,OVM,OVM,OVM,Russian Ruble
 "Azerbaijan, Republic of",1993,OVM,OVM,OVM,Russian Ruble
@@ -676,28 +676,28 @@ Bangladesh,1975,Interm3,Interm,Dirty Float,British Pound
 Bangladesh,1976,Float1,Float,Float,British Pound
 Bangladesh,1977,Float1,Float,Float,British Pound
 Bangladesh,1978,Float1,Float,Float,British Pound
-Bangladesh,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Bangladesh,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Bangladesh,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Bangladesh,2000,Basket,Undisclosed Basket,Undisclosed Basket,
 Bangladesh,2001,Interm2,Interm,Dirty Float,US dollar
 Bangladesh,2002,Float2,Float,Float,US dollar
 Bangladesh,2003,Incon,Low Volatility,Low Volatility,US dollar
@@ -767,24 +767,24 @@ Barbados,2018,Fix†,Fix,Fix,US dollar
 Barbados,2019,Fix†,Fix,Fix,US dollar
 Barbados,2020,Fix†,Fix,Fix,US dollar
 Barbados,2021,Fix†,Fix,Fix,US dollar
-Belarus,1974,NON,NON,NON,NaN
-Belarus,1975,NON,NON,NON,NaN
-Belarus,1976,NON,NON,NON,NaN
-Belarus,1977,NON,NON,NON,NaN
-Belarus,1978,NON,NON,NON,NaN
-Belarus,1979,NON,NON,NON,NaN
-Belarus,1980,NON,NON,NON,NaN
-Belarus,1981,NON,NON,NON,NaN
-Belarus,1982,NON,NON,NON,NaN
-Belarus,1983,NON,NON,NON,NaN
-Belarus,1984,NON,NON,NON,NaN
-Belarus,1985,NON,NON,NON,NaN
-Belarus,1986,NON,NON,NON,NaN
-Belarus,1987,NON,NON,NON,NaN
-Belarus,1988,NON,NON,NON,NaN
-Belarus,1989,NON,NON,NON,NaN
-Belarus,1990,NON,NON,NON,NaN
-Belarus,1991,NON,NON,NON,NaN
+Belarus,1974,NON,NON,NON,
+Belarus,1975,NON,NON,NON,
+Belarus,1976,NON,NON,NON,
+Belarus,1977,NON,NON,NON,
+Belarus,1978,NON,NON,NON,
+Belarus,1979,NON,NON,NON,
+Belarus,1980,NON,NON,NON,
+Belarus,1981,NON,NON,NON,
+Belarus,1982,NON,NON,NON,
+Belarus,1983,NON,NON,NON,
+Belarus,1984,NON,NON,NON,
+Belarus,1985,NON,NON,NON,
+Belarus,1986,NON,NON,NON,
+Belarus,1987,NON,NON,NON,
+Belarus,1988,NON,NON,NON,
+Belarus,1989,NON,NON,NON,
+Belarus,1990,NON,NON,NON,
+Belarus,1991,NON,NON,NON,
 Belarus,1992,OVM,OVM,OVM,
 Belarus,1993,OVM,OVM,OVM,
 Belarus,1994,OVM,OVM,OVM,
@@ -1055,24 +1055,24 @@ Bolivia,2018,Fix†,Fix,Fix,US dollar
 Bolivia,2019,Fix†,Fix,Fix,US dollar
 Bolivia,2020,Fix†,Fix,Fix,US dollar
 Bolivia,2021,Fix†,Fix,Fix,US dollar
-Bosnia and Herzegovina,1974,NON,NON,NON,NaN
-Bosnia and Herzegovina,1975,NON,NON,NON,NaN
-Bosnia and Herzegovina,1976,NON,NON,NON,NaN
-Bosnia and Herzegovina,1977,NON,NON,NON,NaN
-Bosnia and Herzegovina,1978,NON,NON,NON,NaN
-Bosnia and Herzegovina,1979,NON,NON,NON,NaN
-Bosnia and Herzegovina,1980,NON,NON,NON,NaN
-Bosnia and Herzegovina,1981,NON,NON,NON,NaN
-Bosnia and Herzegovina,1982,NON,NON,NON,NaN
-Bosnia and Herzegovina,1983,NON,NON,NON,NaN
-Bosnia and Herzegovina,1984,NON,NON,NON,NaN
-Bosnia and Herzegovina,1985,NON,NON,NON,NaN
-Bosnia and Herzegovina,1986,NON,NON,NON,NaN
-Bosnia and Herzegovina,1987,NON,NON,NON,NaN
-Bosnia and Herzegovina,1988,NON,NON,NON,NaN
-Bosnia and Herzegovina,1989,NON,NON,NON,NaN
-Bosnia and Herzegovina,1990,NON,NON,NON,NaN
-Bosnia and Herzegovina,1991,NON,NON,NON,NaN
+Bosnia and Herzegovina,1974,NON,NON,NON,
+Bosnia and Herzegovina,1975,NON,NON,NON,
+Bosnia and Herzegovina,1976,NON,NON,NON,
+Bosnia and Herzegovina,1977,NON,NON,NON,
+Bosnia and Herzegovina,1978,NON,NON,NON,
+Bosnia and Herzegovina,1979,NON,NON,NON,
+Bosnia and Herzegovina,1980,NON,NON,NON,
+Bosnia and Herzegovina,1981,NON,NON,NON,
+Bosnia and Herzegovina,1982,NON,NON,NON,
+Bosnia and Herzegovina,1983,NON,NON,NON,
+Bosnia and Herzegovina,1984,NON,NON,NON,
+Bosnia and Herzegovina,1985,NON,NON,NON,
+Bosnia and Herzegovina,1986,NON,NON,NON,
+Bosnia and Herzegovina,1987,NON,NON,NON,
+Bosnia and Herzegovina,1988,NON,NON,NON,
+Bosnia and Herzegovina,1989,NON,NON,NON,
+Bosnia and Herzegovina,1990,NON,NON,NON,
+Bosnia and Herzegovina,1991,NON,NON,NON,
 Bosnia and Herzegovina,1992,Fix*,Fix,Fix,Yugoslav dinar
 Bosnia and Herzegovina,1993,OVM,OVM,OVM,German Mark
 Bosnia and Herzegovina,1994,OVM,OVM,OVM,German Mark
@@ -1106,34 +1106,34 @@ Bosnia and Herzegovina,2021,Float2,Float,Float,Euro
 Botswana,1974,Fix*,Fix,Fix,South African Rand
 Botswana,1975,Fix*,Fix,Fix,South African Rand
 Botswana,1976,Fix1,Fix,Fix,South African Rand
-Botswana,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Botswana,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Botswana,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Botswana,2004,Basket,Undisclosed Basket,Undisclosed Basket,
 Botswana,2005,Fix3,Fix,Fix,South African Rand
 Botswana,2006,Fix3,Fix,Fix,South African Rand
 Botswana,2007,Fix1,Fix,Fix,South African Rand
@@ -1199,16 +1199,16 @@ Brazil**,2018,Interm*1,Interm,Crawling Peg,US dollar
 Brazil**,2019,Interm*1,Interm,Crawling Peg,US dollar
 Brazil**,2020,Interm*1,Interm,Crawling Peg,US dollar
 Brazil**,2021,Interm*1,Interm,Crawling Peg,US dollar
-Brunei Darussalam,1974,NON,NON,NON,NaN
-Brunei Darussalam,1975,NON,NON,NON,NaN
-Brunei Darussalam,1976,NON,NON,NON,NaN
-Brunei Darussalam,1977,NON,NON,NON,NaN
-Brunei Darussalam,1978,NON,NON,NON,NaN
-Brunei Darussalam,1979,NON,NON,NON,NaN
-Brunei Darussalam,1980,NON,NON,NON,NaN
-Brunei Darussalam,1981,NON,NON,NON,NaN
-Brunei Darussalam,1982,NON,NON,NON,NaN
-Brunei Darussalam,1983,NON,NON,NON,NaN
+Brunei Darussalam,1974,NON,NON,NON,
+Brunei Darussalam,1975,NON,NON,NON,
+Brunei Darussalam,1976,NON,NON,NON,
+Brunei Darussalam,1977,NON,NON,NON,
+Brunei Darussalam,1978,NON,NON,NON,
+Brunei Darussalam,1979,NON,NON,NON,
+Brunei Darussalam,1980,NON,NON,NON,
+Brunei Darussalam,1981,NON,NON,NON,
+Brunei Darussalam,1982,NON,NON,NON,
+Brunei Darussalam,1983,NON,NON,NON,
 Brunei Darussalam,1984,Fix*,Fix,Fix,Singapore Dollar
 Brunei Darussalam,1985,Fix*,Fix,Fix,Singapore Dollar
 Brunei Darussalam,1986,Fix*,Fix,Fix,Singapore Dollar
@@ -1361,14 +1361,14 @@ Burundi,1988,Interm*1,Interm,Crawling Peg,SDR
 Burundi,1989,Interm*1,Interm,Crawling Peg,SDR
 Burundi,1990,Float1,Float,Float,SDR
 Burundi,1991,Interm*1,Interm,Crawling Peg,SDR
-Burundi,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Burundi,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Burundi,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Burundi,1999,Basket,Undisclosed Basket,Undisclosed Basket,
 Burundi,2000,Interm*1,Interm,Crawling Peg,US dollar
 Burundi,2001,Interm*1,Interm,Crawling Peg,US dollar
 Burundi,2002,Interm*1,Interm,Crawling Peg,US dollar
@@ -1393,28 +1393,28 @@ Burundi,2020,Incon,Low Volatility,Low Volatility,US dollar
 Burundi,2021,Fix1,Fix,Fix,US dollar
 Cabo Verde,1974,OVM,OVM,OVM,French Franc
 Cabo Verde,1975,OVM,OVM,OVM,French Franc
-Cabo Verde,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cabo Verde,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Cabo Verde,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Cabo Verde,1997,Basket,Undisclosed Basket,Undisclosed Basket,
 Cabo Verde,1998,Float1,Float,Float,French Franc
 Cabo Verde,1999,Fix2,Fix,Fix,Euro
 Cabo Verde,2000,Fix†,Fix,Fix,Euro
@@ -1830,11 +1830,11 @@ Chile**,2021,Float1,Float,Float,US dollar
 "China, P.R.: Mainland**",1978,OVM,OVM,OVM,US dollar
 "China, P.R.: Mainland**",1979,OVM,OVM,OVM,US dollar
 "China, P.R.: Mainland**",1980,OVM,OVM,OVM,US dollar
-"China, P.R.: Mainland**",1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-"China, P.R.: Mainland**",1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-"China, P.R.: Mainland**",1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-"China, P.R.: Mainland**",1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-"China, P.R.: Mainland**",1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+"China, P.R.: Mainland**",1981,Basket,Undisclosed Basket,Undisclosed Basket,
+"China, P.R.: Mainland**",1982,Basket,Undisclosed Basket,Undisclosed Basket,
+"China, P.R.: Mainland**",1983,Basket,Undisclosed Basket,Undisclosed Basket,
+"China, P.R.: Mainland**",1984,Basket,Undisclosed Basket,Undisclosed Basket,
+"China, P.R.: Mainland**",1985,Basket,Undisclosed Basket,Undisclosed Basket,
 "China, P.R.: Mainland**",1986,OVM,OVM,OVM,US dollar
 "China, P.R.: Mainland**",1987,Fix*,Fix,Fix,US dollar
 "China, P.R.: Mainland**",1988,Fix*,Fix,Fix,US dollar
@@ -1967,14 +1967,14 @@ Comoros,2018,Fix†,Fix,Fix,Euro
 Comoros,2019,Fix†,Fix,Fix,Euro
 Comoros,2020,Fix†,Fix,Fix,Euro
 Comoros,2021,Fix†,Fix,Fix,Euro
-"Congo, Democratic Republic of",1974,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1975,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1976,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1977,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1978,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1979,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1980,NON,NON,NON,NaN
-"Congo, Democratic Republic of",1981,NON,NON,NON,NaN
+"Congo, Democratic Republic of",1974,NON,NON,NON,
+"Congo, Democratic Republic of",1975,NON,NON,NON,
+"Congo, Democratic Republic of",1976,NON,NON,NON,
+"Congo, Democratic Republic of",1977,NON,NON,NON,
+"Congo, Democratic Republic of",1978,NON,NON,NON,
+"Congo, Democratic Republic of",1979,NON,NON,NON,
+"Congo, Democratic Republic of",1980,NON,NON,NON,
+"Congo, Democratic Republic of",1981,NON,NON,NON,
 "Congo, Democratic Republic of",1982,Float1,Float,Float,SDR
 "Congo, Democratic Republic of",1983,Fix3,Fix,Fix,US dollar
 "Congo, Democratic Republic of",1984,Fix1,Fix,Fix,US dollar
@@ -2159,23 +2159,23 @@ Cote d'Ivoire**,2018,Fix†,Fix,Fix,Euro
 Cote d'Ivoire**,2019,Fix†,Fix,Fix,Euro
 Cote d'Ivoire**,2020,Fix†,Fix,Fix,Euro
 Cote d'Ivoire**,2021,Fix†,Fix,Fix,Euro
-Croatia,1974,NON,NON,NON,NaN
-Croatia,1975,NON,NON,NON,NaN
-Croatia,1976,NON,NON,NON,NaN
-Croatia,1977,NON,NON,NON,NaN
-Croatia,1978,NON,NON,NON,NaN
-Croatia,1979,NON,NON,NON,NaN
-Croatia,1980,NON,NON,NON,NaN
-Croatia,1981,NON,NON,NON,NaN
-Croatia,1982,NON,NON,NON,NaN
-Croatia,1983,NON,NON,NON,NaN
-Croatia,1984,NON,NON,NON,NaN
-Croatia,1985,NON,NON,NON,NaN
-Croatia,1986,NON,NON,NON,NaN
-Croatia,1987,NON,NON,NON,NaN
-Croatia,1988,NON,NON,NON,NaN
-Croatia,1989,NON,NON,NON,NaN
-Croatia,1990,NON,NON,NON,NaN
+Croatia,1974,NON,NON,NON,
+Croatia,1975,NON,NON,NON,
+Croatia,1976,NON,NON,NON,
+Croatia,1977,NON,NON,NON,
+Croatia,1978,NON,NON,NON,
+Croatia,1979,NON,NON,NON,
+Croatia,1980,NON,NON,NON,
+Croatia,1981,NON,NON,NON,
+Croatia,1982,NON,NON,NON,
+Croatia,1983,NON,NON,NON,
+Croatia,1984,NON,NON,NON,
+Croatia,1985,NON,NON,NON,
+Croatia,1986,NON,NON,NON,
+Croatia,1987,NON,NON,NON,
+Croatia,1988,NON,NON,NON,
+Croatia,1989,NON,NON,NON,
+Croatia,1990,NON,NON,NON,
 Croatia,1991,OVM,OVM,OVM,German Mark
 Croatia,1992,Interm3,Interm,Dirty Float,German Mark
 Croatia,1993,Interm3,Interm,Dirty Float,German Mark
@@ -2207,42 +2207,42 @@ Croatia,2018,Float2,Float,Float,Euro
 Croatia,2019,Float2,Float,Float,Euro
 Croatia,2020,Float2,Float,Float,Euro
 Croatia,2021,Float2,Float,Float,Euro
-Curacao & St. Maarten,1974,NON,NON,NON,NaN
-Curacao & St. Maarten,1975,NON,NON,NON,NaN
-Curacao & St. Maarten,1976,NON,NON,NON,NaN
-Curacao & St. Maarten,1977,NON,NON,NON,NaN
-Curacao & St. Maarten,1978,NON,NON,NON,NaN
-Curacao & St. Maarten,1979,NON,NON,NON,NaN
-Curacao & St. Maarten,1980,NON,NON,NON,NaN
-Curacao & St. Maarten,1981,NON,NON,NON,NaN
-Curacao & St. Maarten,1982,NON,NON,NON,NaN
-Curacao & St. Maarten,1983,NON,NON,NON,NaN
-Curacao & St. Maarten,1984,NON,NON,NON,NaN
-Curacao & St. Maarten,1985,NON,NON,NON,NaN
-Curacao & St. Maarten,1986,NON,NON,NON,NaN
-Curacao & St. Maarten,1987,NON,NON,NON,NaN
-Curacao & St. Maarten,1988,NON,NON,NON,NaN
-Curacao & St. Maarten,1989,NON,NON,NON,NaN
-Curacao & St. Maarten,1990,NON,NON,NON,NaN
-Curacao & St. Maarten,1991,NON,NON,NON,NaN
-Curacao & St. Maarten,1992,NON,NON,NON,NaN
-Curacao & St. Maarten,1993,NON,NON,NON,NaN
-Curacao & St. Maarten,1994,NON,NON,NON,NaN
-Curacao & St. Maarten,1995,NON,NON,NON,NaN
-Curacao & St. Maarten,1996,NON,NON,NON,NaN
-Curacao & St. Maarten,1997,NON,NON,NON,NaN
-Curacao & St. Maarten,1998,NON,NON,NON,NaN
-Curacao & St. Maarten,1999,NON,NON,NON,NaN
-Curacao & St. Maarten,2000,NON,NON,NON,NaN
-Curacao & St. Maarten,2001,NON,NON,NON,NaN
-Curacao & St. Maarten,2002,NON,NON,NON,NaN
-Curacao & St. Maarten,2003,NON,NON,NON,NaN
-Curacao & St. Maarten,2004,NON,NON,NON,NaN
-Curacao & St. Maarten,2005,NON,NON,NON,NaN
-Curacao & St. Maarten,2006,NON,NON,NON,NaN
-Curacao & St. Maarten,2007,NON,NON,NON,NaN
-Curacao & St. Maarten,2008,NON,NON,NON,NaN
-Curacao & St. Maarten,2009,NON,NON,NON,NaN
+Curacao & St. Maarten,1974,NON,NON,NON,
+Curacao & St. Maarten,1975,NON,NON,NON,
+Curacao & St. Maarten,1976,NON,NON,NON,
+Curacao & St. Maarten,1977,NON,NON,NON,
+Curacao & St. Maarten,1978,NON,NON,NON,
+Curacao & St. Maarten,1979,NON,NON,NON,
+Curacao & St. Maarten,1980,NON,NON,NON,
+Curacao & St. Maarten,1981,NON,NON,NON,
+Curacao & St. Maarten,1982,NON,NON,NON,
+Curacao & St. Maarten,1983,NON,NON,NON,
+Curacao & St. Maarten,1984,NON,NON,NON,
+Curacao & St. Maarten,1985,NON,NON,NON,
+Curacao & St. Maarten,1986,NON,NON,NON,
+Curacao & St. Maarten,1987,NON,NON,NON,
+Curacao & St. Maarten,1988,NON,NON,NON,
+Curacao & St. Maarten,1989,NON,NON,NON,
+Curacao & St. Maarten,1990,NON,NON,NON,
+Curacao & St. Maarten,1991,NON,NON,NON,
+Curacao & St. Maarten,1992,NON,NON,NON,
+Curacao & St. Maarten,1993,NON,NON,NON,
+Curacao & St. Maarten,1994,NON,NON,NON,
+Curacao & St. Maarten,1995,NON,NON,NON,
+Curacao & St. Maarten,1996,NON,NON,NON,
+Curacao & St. Maarten,1997,NON,NON,NON,
+Curacao & St. Maarten,1998,NON,NON,NON,
+Curacao & St. Maarten,1999,NON,NON,NON,
+Curacao & St. Maarten,2000,NON,NON,NON,
+Curacao & St. Maarten,2001,NON,NON,NON,
+Curacao & St. Maarten,2002,NON,NON,NON,
+Curacao & St. Maarten,2003,NON,NON,NON,
+Curacao & St. Maarten,2004,NON,NON,NON,
+Curacao & St. Maarten,2005,NON,NON,NON,
+Curacao & St. Maarten,2006,NON,NON,NON,
+Curacao & St. Maarten,2007,NON,NON,NON,
+Curacao & St. Maarten,2008,NON,NON,NON,
+Curacao & St. Maarten,2009,NON,NON,NON,
 Curacao & St. Maarten,2010,OVM,OVM,OVM,US dollar
 Curacao & St. Maarten,2011,OVM,OVM,OVM,US dollar
 Curacao & St. Maarten,2012,Fix*,Fix,Fix,US dollar
@@ -2255,25 +2255,25 @@ Curacao & St. Maarten,2018,Fix*,Fix,Fix,US dollar
 Curacao & St. Maarten,2019,Fix*,Fix,Fix,US dollar
 Curacao & St. Maarten,2020,Fix*,Fix,Fix,US dollar
 Curacao & St. Maarten,2021,Fix*,Fix,Fix,US dollar
-Cyprus,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Cyprus,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Cyprus,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Cyprus,1992,Basket,Undisclosed Basket,Undisclosed Basket,
 Cyprus,1993,Fix1,Fix,Fix,ECU
 Cyprus,1994,Fix1,Fix,Fix,ECU
 Cyprus,1995,Fix1,Fix,Fix,ECU
@@ -2303,25 +2303,25 @@ Cyprus,2018,Float*,Float,Float,Euro
 Cyprus,2019,Float*,Float,Float,Euro
 Cyprus,2020,Float*,Float,Float,Euro
 Cyprus,2021,Float*,Float,Float,Euro
-Czech Republic**,1974,NON,NON,NON,NaN
-Czech Republic**,1975,NON,NON,NON,NaN
-Czech Republic**,1976,NON,NON,NON,NaN
-Czech Republic**,1977,NON,NON,NON,NaN
-Czech Republic**,1978,NON,NON,NON,NaN
-Czech Republic**,1979,NON,NON,NON,NaN
-Czech Republic**,1980,NON,NON,NON,NaN
-Czech Republic**,1981,NON,NON,NON,NaN
-Czech Republic**,1982,NON,NON,NON,NaN
-Czech Republic**,1983,NON,NON,NON,NaN
-Czech Republic**,1984,NON,NON,NON,NaN
-Czech Republic**,1985,NON,NON,NON,NaN
-Czech Republic**,1986,NON,NON,NON,NaN
-Czech Republic**,1987,NON,NON,NON,NaN
-Czech Republic**,1988,NON,NON,NON,NaN
-Czech Republic**,1989,NON,NON,NON,NaN
-Czech Republic**,1990,NON,NON,NON,NaN
-Czech Republic**,1991,NON,NON,NON,NaN
-Czech Republic**,1992,NON,NON,NON,NaN
+Czech Republic**,1974,NON,NON,NON,
+Czech Republic**,1975,NON,NON,NON,
+Czech Republic**,1976,NON,NON,NON,
+Czech Republic**,1977,NON,NON,NON,
+Czech Republic**,1978,NON,NON,NON,
+Czech Republic**,1979,NON,NON,NON,
+Czech Republic**,1980,NON,NON,NON,
+Czech Republic**,1981,NON,NON,NON,
+Czech Republic**,1982,NON,NON,NON,
+Czech Republic**,1983,NON,NON,NON,
+Czech Republic**,1984,NON,NON,NON,
+Czech Republic**,1985,NON,NON,NON,
+Czech Republic**,1986,NON,NON,NON,
+Czech Republic**,1987,NON,NON,NON,
+Czech Republic**,1988,NON,NON,NON,
+Czech Republic**,1989,NON,NON,NON,
+Czech Republic**,1990,NON,NON,NON,
+Czech Republic**,1991,NON,NON,NON,
+Czech Republic**,1992,NON,NON,NON,
 Czech Republic**,1993,Float1,Float,Float,German Mark
 Czech Republic**,1994,Interm2,Interm,Dirty Float,German Mark
 Czech Republic**,1995,Float1,Float,Float,German Mark
@@ -2691,7 +2691,7 @@ Equatorial Guinea,1974,OVM,OVM,OVM,French Franc
 Equatorial Guinea,1975,OVM,OVM,OVM,French Franc
 Equatorial Guinea,1976,OVM,OVM,OVM,French Franc
 Equatorial Guinea,1977,OVM,OVM,OVM,French Franc
-Equatorial Guinea,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Equatorial Guinea,1978,Basket,Undisclosed Basket,Undisclosed Basket,
 Equatorial Guinea,1979,Fix*,Fix,Fix,French Franc
 Equatorial Guinea,1980,Fix*,Fix,Fix,French Franc
 Equatorial Guinea,1981,Fix*,Fix,Fix,French Franc
@@ -2735,25 +2735,25 @@ Equatorial Guinea,2018,Fix2,Fix,Fix,Euro
 Equatorial Guinea,2019,Fix2,Fix,Fix,Euro
 Equatorial Guinea,2020,Fix2,Fix,Fix,Euro
 Equatorial Guinea,2021,OVM,OVM,OVM,Euro
-Eritrea,1974,NON,NON,NON,NaN
-Eritrea,1975,NON,NON,NON,NaN
-Eritrea,1976,NON,NON,NON,NaN
-Eritrea,1977,NON,NON,NON,NaN
-Eritrea,1978,NON,NON,NON,NaN
-Eritrea,1979,NON,NON,NON,NaN
-Eritrea,1980,NON,NON,NON,NaN
-Eritrea,1981,NON,NON,NON,NaN
-Eritrea,1982,NON,NON,NON,NaN
-Eritrea,1983,NON,NON,NON,NaN
-Eritrea,1984,NON,NON,NON,NaN
-Eritrea,1985,NON,NON,NON,NaN
-Eritrea,1986,NON,NON,NON,NaN
-Eritrea,1987,NON,NON,NON,NaN
-Eritrea,1988,NON,NON,NON,NaN
-Eritrea,1989,NON,NON,NON,NaN
-Eritrea,1990,NON,NON,NON,NaN
-Eritrea,1991,NON,NON,NON,NaN
-Eritrea,1992,NON,NON,NON,NaN
+Eritrea,1974,NON,NON,NON,
+Eritrea,1975,NON,NON,NON,
+Eritrea,1976,NON,NON,NON,
+Eritrea,1977,NON,NON,NON,
+Eritrea,1978,NON,NON,NON,
+Eritrea,1979,NON,NON,NON,
+Eritrea,1980,NON,NON,NON,
+Eritrea,1981,NON,NON,NON,
+Eritrea,1982,NON,NON,NON,
+Eritrea,1983,NON,NON,NON,
+Eritrea,1984,NON,NON,NON,
+Eritrea,1985,NON,NON,NON,
+Eritrea,1986,NON,NON,NON,
+Eritrea,1987,NON,NON,NON,
+Eritrea,1988,NON,NON,NON,
+Eritrea,1989,NON,NON,NON,
+Eritrea,1990,NON,NON,NON,
+Eritrea,1991,NON,NON,NON,
+Eritrea,1992,NON,NON,NON,
 Eritrea,1993,Fix*,Fix,Fix,US dollar
 Eritrea,1994,OVM,OVM,OVM,US dollar
 Eritrea,1995,OVM,OVM,OVM,US dollar
@@ -2783,23 +2783,23 @@ Eritrea,2018,Fix*,Fix,Fix,US dollar
 Eritrea,2019,Fix*,Fix,Fix,US dollar
 Eritrea,2020,Fix*,Fix,Fix,US dollar
 Eritrea,2021,Fix*,Fix,Fix,US dollar
-Estonia,1974,NON,NON,NON,NaN
-Estonia,1975,NON,NON,NON,NaN
-Estonia,1976,NON,NON,NON,NaN
-Estonia,1977,NON,NON,NON,NaN
-Estonia,1978,NON,NON,NON,NaN
-Estonia,1979,NON,NON,NON,NaN
-Estonia,1980,NON,NON,NON,NaN
-Estonia,1981,NON,NON,NON,NaN
-Estonia,1982,NON,NON,NON,NaN
-Estonia,1983,NON,NON,NON,NaN
-Estonia,1984,NON,NON,NON,NaN
-Estonia,1985,NON,NON,NON,NaN
-Estonia,1986,NON,NON,NON,NaN
-Estonia,1987,NON,NON,NON,NaN
-Estonia,1988,NON,NON,NON,NaN
-Estonia,1989,NON,NON,NON,NaN
-Estonia,1990,NON,NON,NON,NaN
+Estonia,1974,NON,NON,NON,
+Estonia,1975,NON,NON,NON,
+Estonia,1976,NON,NON,NON,
+Estonia,1977,NON,NON,NON,
+Estonia,1978,NON,NON,NON,
+Estonia,1979,NON,NON,NON,
+Estonia,1980,NON,NON,NON,
+Estonia,1981,NON,NON,NON,
+Estonia,1982,NON,NON,NON,
+Estonia,1983,NON,NON,NON,
+Estonia,1984,NON,NON,NON,
+Estonia,1985,NON,NON,NON,
+Estonia,1986,NON,NON,NON,
+Estonia,1987,NON,NON,NON,
+Estonia,1988,NON,NON,NON,
+Estonia,1989,NON,NON,NON,
+Estonia,1990,NON,NON,NON,
 Estonia,1991,OVM,OVM,OVM,German Mark
 Estonia,1992,Fix1,Fix,Fix,German Mark
 Estonia,1993,Fix†,Fix,Fix,German Mark
@@ -2927,34 +2927,34 @@ Ethiopia,2018,OVM,OVM,OVM,US dollar
 Ethiopia,2019,OVM,OVM,OVM,US dollar
 Ethiopia,2020,OVM,OVM,OVM,US dollar
 Ethiopia,2021,OVM,OVM,OVM,US dollar
-Euro Area,1974,NON,NON,NON,NaN
-Euro Area,1975,NON,NON,NON,NaN
-Euro Area,1976,NON,NON,NON,NaN
-Euro Area,1977,NON,NON,NON,NaN
-Euro Area,1978,NON,NON,NON,NaN
-Euro Area,1979,NON,NON,NON,NaN
-Euro Area,1980,NON,NON,NON,NaN
-Euro Area,1981,NON,NON,NON,NaN
-Euro Area,1982,NON,NON,NON,NaN
-Euro Area,1983,NON,NON,NON,NaN
-Euro Area,1984,NON,NON,NON,NaN
-Euro Area,1985,NON,NON,NON,NaN
-Euro Area,1986,NON,NON,NON,NaN
-Euro Area,1987,NON,NON,NON,NaN
-Euro Area,1988,NON,NON,NON,NaN
-Euro Area,1989,NON,NON,NON,NaN
-Euro Area,1990,NON,NON,NON,NaN
-Euro Area,1991,NON,NON,NON,NaN
-Euro Area,1992,NON,NON,NON,NaN
-Euro Area,1993,NON,NON,NON,NaN
-Euro Area,1994,NON,NON,NON,NaN
-Euro Area,1995,NON,NON,NON,NaN
-Euro Area,1996,NON,NON,NON,NaN
-Euro Area,1997,NON,NON,NON,NaN
-Euro Area,1998,NON,NON,NON,NaN
-Euro Area,1999,NON,NON,NON,NaN
-Euro Area,2000,NON,NON,NON,NaN
-Euro Area,2001,NON,NON,NON,NaN
+Euro Area,1974,NON,NON,NON,
+Euro Area,1975,NON,NON,NON,
+Euro Area,1976,NON,NON,NON,
+Euro Area,1977,NON,NON,NON,
+Euro Area,1978,NON,NON,NON,
+Euro Area,1979,NON,NON,NON,
+Euro Area,1980,NON,NON,NON,
+Euro Area,1981,NON,NON,NON,
+Euro Area,1982,NON,NON,NON,
+Euro Area,1983,NON,NON,NON,
+Euro Area,1984,NON,NON,NON,
+Euro Area,1985,NON,NON,NON,
+Euro Area,1986,NON,NON,NON,
+Euro Area,1987,NON,NON,NON,
+Euro Area,1988,NON,NON,NON,
+Euro Area,1989,NON,NON,NON,
+Euro Area,1990,NON,NON,NON,
+Euro Area,1991,NON,NON,NON,
+Euro Area,1992,NON,NON,NON,
+Euro Area,1993,NON,NON,NON,
+Euro Area,1994,NON,NON,NON,
+Euro Area,1995,NON,NON,NON,
+Euro Area,1996,NON,NON,NON,
+Euro Area,1997,NON,NON,NON,
+Euro Area,1998,NON,NON,NON,
+Euro Area,1999,NON,NON,NON,
+Euro Area,2000,NON,NON,NON,
+Euro Area,2001,NON,NON,NON,
 Euro Area,2002,Float1,Float,Float,US dollar
 Euro Area,2003,Float1,Float,Float,US dollar
 Euro Area,2004,Float1,Float,Float,US dollar
@@ -2976,71 +2976,71 @@ Euro Area,2019,Float1,Float,Float,US dollar
 Euro Area,2020,Float1,Float,Float,US dollar
 Euro Area,2021,Float1,Float,Float,US dollar
 Fiji,1974,Interm*1,Interm,Crawling Peg,Australian Dollar
-Fiji,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Fiji,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Finland*,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Fiji,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Fiji,2021,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Finland*,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Finland*,1992,Fix1,Fix,Fix,German Mark
 Finland*,1993,Fix1,Fix,Fix,German Mark
 Finland*,1994,Fix1,Fix,Fix,German Mark
@@ -3215,23 +3215,23 @@ Gabon,2021,OVM,OVM,OVM,Euro
 "Gambia, The",2019,Float2,Float,Float,US dollar
 "Gambia, The",2020,OVM,OVM,OVM,US dollar
 "Gambia, The",2021,Float2,Float,Float,US dollar
-Georgia,1974,NON,NON,NON,NaN
-Georgia,1975,NON,NON,NON,NaN
-Georgia,1976,NON,NON,NON,NaN
-Georgia,1977,NON,NON,NON,NaN
-Georgia,1978,NON,NON,NON,NaN
-Georgia,1979,NON,NON,NON,NaN
-Georgia,1980,NON,NON,NON,NaN
-Georgia,1981,NON,NON,NON,NaN
-Georgia,1982,NON,NON,NON,NaN
-Georgia,1983,NON,NON,NON,NaN
-Georgia,1984,NON,NON,NON,NaN
-Georgia,1985,NON,NON,NON,NaN
-Georgia,1986,NON,NON,NON,NaN
-Georgia,1987,NON,NON,NON,NaN
-Georgia,1988,NON,NON,NON,NaN
-Georgia,1989,NON,NON,NON,NaN
-Georgia,1990,NON,NON,NON,NaN
+Georgia,1974,NON,NON,NON,
+Georgia,1975,NON,NON,NON,
+Georgia,1976,NON,NON,NON,
+Georgia,1977,NON,NON,NON,
+Georgia,1978,NON,NON,NON,
+Georgia,1979,NON,NON,NON,
+Georgia,1980,NON,NON,NON,
+Georgia,1981,NON,NON,NON,
+Georgia,1982,NON,NON,NON,
+Georgia,1983,NON,NON,NON,
+Georgia,1984,NON,NON,NON,
+Georgia,1985,NON,NON,NON,
+Georgia,1986,NON,NON,NON,
+Georgia,1987,NON,NON,NON,
+Georgia,1988,NON,NON,NON,
+Georgia,1989,NON,NON,NON,
+Georgia,1990,NON,NON,NON,
 Georgia,1991,OVM,OVM,OVM,US dollar
 Georgia,1992,Fix*,Fix,Fix,US dollar
 Georgia,1993,OVM,OVM,OVM,US dollar
@@ -3750,20 +3750,20 @@ Hungary**,1977,OVM,OVM,OVM,US dollar
 Hungary**,1978,OVM,OVM,OVM,US dollar
 Hungary**,1979,Fix*,Fix,Fix,US dollar
 Hungary**,1980,OVM,OVM,OVM,US dollar
-Hungary**,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Hungary**,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Hungary**,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Hungary**,1994,Basket,Undisclosed Basket,Undisclosed Basket,
 Hungary**,1995,OVM,OVM,OVM,German Mark
 Hungary**,1996,OVM,OVM,OVM,German Mark
 Hungary**,1997,OVM,OVM,OVM,German Mark
@@ -3804,18 +3804,18 @@ Iceland,1983,Interm*1,Interm,Crawling Peg,German Mark
 Iceland,1984,Interm*1,Interm,Crawling Peg,German Mark
 Iceland,1985,Interm*1,Interm,Crawling Peg,German Mark
 Iceland,1986,Float1,Float,Float,German Mark
-Iceland,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Iceland,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Iceland,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Iceland,1998,Basket,Undisclosed Basket,Undisclosed Basket,
 Iceland,1999,Fix1,Fix,Fix,Euro
 Iceland,2000,Fix1,Fix,Fix,Euro
 Iceland,2001,Fix1,Fix,Fix,Euro
@@ -3839,11 +3839,11 @@ Iceland,2018,Fix1,Fix,Fix,Euro
 Iceland,2019,Float1,Float,Float,Euro
 Iceland,2020,Fix3,Fix,Fix,Euro
 Iceland,2021,Fix1,Fix,Fix,Euro
-India**,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-India**,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-India**,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-India**,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-India**,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+India**,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+India**,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+India**,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+India**,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+India**,1978,Basket,Undisclosed Basket,Undisclosed Basket,
 India**,1979,Float1,Float,Float,US dollar
 India**,1980,Float1,Float,Float,US dollar
 India**,1981,Float1,Float,Float,US dollar
@@ -4081,7 +4081,7 @@ Ireland*,2020,Float*,Float,Float,Euro
 Ireland*,2021,Float*,Float,Float,Euro
 Israel**,1974,Interm1,Interm,Dirty Float,US dollar
 Israel**,1975,Float1,Float,Float,US dollar
-Israel**,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Israel**,1976,Basket,Undisclosed Basket,Undisclosed Basket,
 Israel**,1977,Interm1,Interm,Dirty Float,US dollar
 Israel**,1978,Float1,Float,Float,US dollar
 Israel**,1979,Interm*1,Interm,Crawling Peg,US dollar
@@ -4319,24 +4319,24 @@ Jordan**,2018,Fix†,Fix,Fix,US dollar
 Jordan**,2019,Fix†,Fix,Fix,US dollar
 Jordan**,2020,Fix†,Fix,Fix,US dollar
 Jordan**,2021,Fix†,Fix,Fix,US dollar
-Kazakhstan,1974,NON,NON,NON,NaN
-Kazakhstan,1975,NON,NON,NON,NaN
-Kazakhstan,1976,NON,NON,NON,NaN
-Kazakhstan,1977,NON,NON,NON,NaN
-Kazakhstan,1978,NON,NON,NON,NaN
-Kazakhstan,1979,NON,NON,NON,NaN
-Kazakhstan,1980,NON,NON,NON,NaN
-Kazakhstan,1981,NON,NON,NON,NaN
-Kazakhstan,1982,NON,NON,NON,NaN
-Kazakhstan,1983,NON,NON,NON,NaN
-Kazakhstan,1984,NON,NON,NON,NaN
-Kazakhstan,1985,NON,NON,NON,NaN
-Kazakhstan,1986,NON,NON,NON,NaN
-Kazakhstan,1987,NON,NON,NON,NaN
-Kazakhstan,1988,NON,NON,NON,NaN
-Kazakhstan,1989,NON,NON,NON,NaN
-Kazakhstan,1990,NON,NON,NON,NaN
-Kazakhstan,1991,NON,NON,NON,NaN
+Kazakhstan,1974,NON,NON,NON,
+Kazakhstan,1975,NON,NON,NON,
+Kazakhstan,1976,NON,NON,NON,
+Kazakhstan,1977,NON,NON,NON,
+Kazakhstan,1978,NON,NON,NON,
+Kazakhstan,1979,NON,NON,NON,
+Kazakhstan,1980,NON,NON,NON,
+Kazakhstan,1981,NON,NON,NON,
+Kazakhstan,1982,NON,NON,NON,
+Kazakhstan,1983,NON,NON,NON,
+Kazakhstan,1984,NON,NON,NON,
+Kazakhstan,1985,NON,NON,NON,
+Kazakhstan,1986,NON,NON,NON,
+Kazakhstan,1987,NON,NON,NON,
+Kazakhstan,1988,NON,NON,NON,
+Kazakhstan,1989,NON,NON,NON,
+Kazakhstan,1990,NON,NON,NON,
+Kazakhstan,1991,NON,NON,NON,
 Kazakhstan,1992,Fix*,Fix,Fix,SDR
 Kazakhstan,1993,OVM,OVM,OVM,SDR
 Kazakhstan,1994,OVM,OVM,OVM,SDR
@@ -4380,12 +4380,12 @@ Kenya,1983,Float1,Float,Float,SDR
 Kenya,1984,Float1,Float,Float,SDR
 Kenya,1985,Float1,Float,Float,SDR
 Kenya,1986,Interm2,Interm,Dirty Float,SDR
-Kenya,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kenya,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kenya,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kenya,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kenya,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kenya,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Kenya,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Kenya,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Kenya,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Kenya,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Kenya,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Kenya,1992,Basket,Undisclosed Basket,Undisclosed Basket,
 Kenya,1993,Interm1,Interm,Dirty Float,US dollar
 Kenya,1994,Interm*1,Interm,Crawling Peg,US dollar
 Kenya,1995,Interm*1,Interm,Crawling Peg,US dollar
@@ -4415,11 +4415,11 @@ Kenya,2018,Interm*2,Interm,Crawling Peg,US dollar
 Kenya,2019,Interm*2,Interm,Crawling Peg,US dollar
 Kenya,2020,Float1,Float,Float,US dollar
 Kenya,2021,Interm*2,Interm,Crawling Peg,US dollar
-Kiribati,1974,NON,NON,NON,NaN
-Kiribati,1975,NON,NON,NON,NaN
-Kiribati,1976,NON,NON,NON,NaN
-Kiribati,1977,NON,NON,NON,NaN
-Kiribati,1978,NON,NON,NON,NaN
+Kiribati,1974,NON,NON,NON,
+Kiribati,1975,NON,NON,NON,
+Kiribati,1976,NON,NON,NON,
+Kiribati,1977,NON,NON,NON,
+Kiribati,1978,NON,NON,NON,
 Kiribati,1979,Fix*,Fix,Fix,Australian Dollar
 Kiribati,1980,Fix*,Fix,Fix,Australian Dollar
 Kiribati,1981,Fix*,Fix,Fix,Australian Dollar
@@ -4511,34 +4511,34 @@ Kiribati,2021,Fix*,Fix,Fix,Australian Dollar
 "Korea, Republic of**",2019,Float1,Float,Float,US dollar
 "Korea, Republic of**",2020,Float1,Float,Float,US dollar
 "Korea, Republic of**",2021,Float1,Float,Float,US dollar
-Kuwait,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Kuwait,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2001,Basket,Undisclosed Basket,Undisclosed Basket,
 Kuwait,2002,Float2,Float,Float,US dollar
 Kuwait,2003,Float2,Float,Float,US dollar
 Kuwait,2004,Fix2,Fix,Fix,US dollar
@@ -4551,31 +4551,31 @@ Kuwait,2010,Interm2,Interm,Dirty Float,US dollar
 Kuwait,2011,Interm*2,Interm,Crawling Peg,US dollar
 Kuwait,2012,Float2,Float,Float,US dollar
 Kuwait,2013,Float2,Float,Float,US dollar
-Kuwait,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kuwait,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Kyrgyz Republic,1974,NON,NON,NON,NaN
-Kyrgyz Republic,1975,NON,NON,NON,NaN
-Kyrgyz Republic,1976,NON,NON,NON,NaN
-Kyrgyz Republic,1977,NON,NON,NON,NaN
-Kyrgyz Republic,1978,NON,NON,NON,NaN
-Kyrgyz Republic,1979,NON,NON,NON,NaN
-Kyrgyz Republic,1980,NON,NON,NON,NaN
-Kyrgyz Republic,1981,NON,NON,NON,NaN
-Kyrgyz Republic,1982,NON,NON,NON,NaN
-Kyrgyz Republic,1983,NON,NON,NON,NaN
-Kyrgyz Republic,1984,NON,NON,NON,NaN
-Kyrgyz Republic,1985,NON,NON,NON,NaN
-Kyrgyz Republic,1986,NON,NON,NON,NaN
-Kyrgyz Republic,1987,NON,NON,NON,NaN
-Kyrgyz Republic,1988,NON,NON,NON,NaN
-Kyrgyz Republic,1989,NON,NON,NON,NaN
-Kyrgyz Republic,1990,NON,NON,NON,NaN
+Kuwait,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Kuwait,2021,Basket,Undisclosed Basket,Undisclosed Basket,
+Kyrgyz Republic,1974,NON,NON,NON,
+Kyrgyz Republic,1975,NON,NON,NON,
+Kyrgyz Republic,1976,NON,NON,NON,
+Kyrgyz Republic,1977,NON,NON,NON,
+Kyrgyz Republic,1978,NON,NON,NON,
+Kyrgyz Republic,1979,NON,NON,NON,
+Kyrgyz Republic,1980,NON,NON,NON,
+Kyrgyz Republic,1981,NON,NON,NON,
+Kyrgyz Republic,1982,NON,NON,NON,
+Kyrgyz Republic,1983,NON,NON,NON,
+Kyrgyz Republic,1984,NON,NON,NON,
+Kyrgyz Republic,1985,NON,NON,NON,
+Kyrgyz Republic,1986,NON,NON,NON,
+Kyrgyz Republic,1987,NON,NON,NON,
+Kyrgyz Republic,1988,NON,NON,NON,
+Kyrgyz Republic,1989,NON,NON,NON,
+Kyrgyz Republic,1990,NON,NON,NON,
 Kyrgyz Republic,1991,Fix*,Fix,Fix,Russian Ruble
 Kyrgyz Republic,1992,Fix*,Fix,Fix,Russian Ruble
 Kyrgyz Republic,1993,OVM,OVM,OVM,Russian Ruble
@@ -4655,24 +4655,24 @@ Lao People's Democratic Republic,2018,OVM,OVM,OVM,US dollar
 Lao People's Democratic Republic,2019,OVM,OVM,OVM,US dollar
 Lao People's Democratic Republic,2020,OVM,OVM,OVM,US dollar
 Lao People's Democratic Republic,2021,OVM,OVM,OVM,US dollar
-Latvia,1974,NON,NON,NON,NaN
-Latvia,1975,NON,NON,NON,NaN
-Latvia,1976,NON,NON,NON,NaN
-Latvia,1977,NON,NON,NON,NaN
-Latvia,1978,NON,NON,NON,NaN
-Latvia,1979,NON,NON,NON,NaN
-Latvia,1980,NON,NON,NON,NaN
-Latvia,1981,NON,NON,NON,NaN
-Latvia,1982,NON,NON,NON,NaN
-Latvia,1983,NON,NON,NON,NaN
-Latvia,1984,NON,NON,NON,NaN
-Latvia,1985,NON,NON,NON,NaN
-Latvia,1986,NON,NON,NON,NaN
-Latvia,1987,NON,NON,NON,NaN
-Latvia,1988,NON,NON,NON,NaN
-Latvia,1989,NON,NON,NON,NaN
-Latvia,1990,NON,NON,NON,NaN
-Latvia,1991,NON,NON,NON,NaN
+Latvia,1974,NON,NON,NON,
+Latvia,1975,NON,NON,NON,
+Latvia,1976,NON,NON,NON,
+Latvia,1977,NON,NON,NON,
+Latvia,1978,NON,NON,NON,
+Latvia,1979,NON,NON,NON,
+Latvia,1980,NON,NON,NON,
+Latvia,1981,NON,NON,NON,
+Latvia,1982,NON,NON,NON,
+Latvia,1983,NON,NON,NON,
+Latvia,1984,NON,NON,NON,
+Latvia,1985,NON,NON,NON,
+Latvia,1986,NON,NON,NON,
+Latvia,1987,NON,NON,NON,
+Latvia,1988,NON,NON,NON,
+Latvia,1989,NON,NON,NON,
+Latvia,1990,NON,NON,NON,
+Latvia,1991,NON,NON,NON,
 Latvia,1992,OVM,OVM,OVM,Russian rouble
 Latvia,1993,Interm*1,Interm,Crawling Peg,SDR
 Latvia,1994,Float1,Float,Float,SDR
@@ -4895,23 +4895,23 @@ Libya,2018,Float2,Float,Float,SDR
 Libya,2019,Fix†,Fix,Fix,SDR
 Libya,2020,Float2,Float,Float,SDR
 Libya,2021,OVM,OVM,OVM,SDR
-Lithuania,1974,NON,NON,NON,NaN
-Lithuania,1975,NON,NON,NON,NaN
-Lithuania,1976,NON,NON,NON,NaN
-Lithuania,1977,NON,NON,NON,NaN
-Lithuania,1978,NON,NON,NON,NaN
-Lithuania,1979,NON,NON,NON,NaN
-Lithuania,1980,NON,NON,NON,NaN
-Lithuania,1981,NON,NON,NON,NaN
-Lithuania,1982,NON,NON,NON,NaN
-Lithuania,1983,NON,NON,NON,NaN
-Lithuania,1984,NON,NON,NON,NaN
-Lithuania,1985,NON,NON,NON,NaN
-Lithuania,1986,NON,NON,NON,NaN
-Lithuania,1987,NON,NON,NON,NaN
-Lithuania,1988,NON,NON,NON,NaN
-Lithuania,1989,NON,NON,NON,NaN
-Lithuania,1990,NON,NON,NON,NaN
+Lithuania,1974,NON,NON,NON,
+Lithuania,1975,NON,NON,NON,
+Lithuania,1976,NON,NON,NON,
+Lithuania,1977,NON,NON,NON,
+Lithuania,1978,NON,NON,NON,
+Lithuania,1979,NON,NON,NON,
+Lithuania,1980,NON,NON,NON,
+Lithuania,1981,NON,NON,NON,
+Lithuania,1982,NON,NON,NON,
+Lithuania,1983,NON,NON,NON,
+Lithuania,1984,NON,NON,NON,
+Lithuania,1985,NON,NON,NON,
+Lithuania,1986,NON,NON,NON,
+Lithuania,1987,NON,NON,NON,
+Lithuania,1988,NON,NON,NON,
+Lithuania,1989,NON,NON,NON,
+Lithuania,1990,NON,NON,NON,
 Lithuania,1991,OVM,OVM,OVM,US dollar
 Lithuania,1992,Fix*,Fix,Fix,US dollar
 Lithuania,1993,Interm1,Interm,Dirty Float,US dollar
@@ -4999,18 +4999,18 @@ Madagascar,1978,Fix†,Fix,Fix,French Franc
 Madagascar,1979,Fix†,Fix,Fix,French Franc
 Madagascar,1980,Fix†,Fix,Fix,French Franc
 Madagascar,1981,Fix†,Fix,Fix,French Franc
-Madagascar,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Madagascar,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Madagascar,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Madagascar,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Madagascar,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Madagascar,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Madagascar,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Madagascar,1985,Basket,Undisclosed Basket,Undisclosed Basket,
 Madagascar,1986,Interm*1,Interm,Crawling Peg,French Franc
 Madagascar,1987,Interm1,Interm,Dirty Float,French Franc
 Madagascar,1988,Fix1,Fix,Fix,French Franc
 Madagascar,1989,Fix1,Fix,Fix,French Franc
 Madagascar,1990,Fix1,Fix,Fix,French Franc
-Madagascar,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Madagascar,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Madagascar,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Madagascar,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Madagascar,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Madagascar,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Madagascar,1994,Interm3,Interm,Dirty Float,French Franc
 Madagascar,1995,Interm*1,Interm,Crawling Peg,French Franc
 Madagascar,1996,Float1,Float,Float,French Franc
@@ -5039,7 +5039,7 @@ Madagascar,2018,Float1,Float,Float,Euro
 Madagascar,2019,Float1,Float,Float,Euro
 Madagascar,2020,Float1,Float,Float,Euro
 Madagascar,2021,Float1,Float,Float,Euro
-Malawi,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Malawi,1974,Basket,Undisclosed Basket,Undisclosed Basket,
 Malawi,1975,Interm*2,Interm,Crawling Peg,SDR
 Malawi,1976,Fix2,Fix,Fix,SDR
 Malawi,1977,Fix2,Fix,Fix,SDR
@@ -5049,17 +5049,17 @@ Malawi,1980,Fix1,Fix,Fix,SDR
 Malawi,1981,Fix1,Fix,Fix,SDR
 Malawi,1982,Float1,Float,Float,SDR
 Malawi,1983,Float1,Float,Float,SDR
-Malawi,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malawi,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Malawi,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Malawi,1994,Basket,Undisclosed Basket,Undisclosed Basket,
 Malawi,1995,Float1,Float,Float,US dollar
 Malawi,1996,Interm*2,Interm,Crawling Peg,US dollar
 Malawi,1997,Interm*1,Interm,Crawling Peg,US dollar
@@ -5146,8 +5146,8 @@ Maldives,1981,Fix2,Fix,Fix,US dollar
 Maldives,1982,Float1,Float,Float,US dollar
 Maldives,1983,Fix2,Fix,Fix,US dollar
 Maldives,1984,Fix†,Fix,Fix,US dollar
-Maldives,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Maldives,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Maldives,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Maldives,1986,Basket,Undisclosed Basket,Undisclosed Basket,
 Maldives,1987,Interm1,Interm,Dirty Float,US dollar
 Maldives,1988,Float1,Float,Float,US dollar
 Maldives,1989,Float1,Float,Float,US dollar
@@ -5231,37 +5231,37 @@ Mali,2018,Fix†,Fix,Fix,Euro
 Mali,2019,Fix†,Fix,Fix,Euro
 Mali,2020,Fix2,Fix,Fix,Euro
 Mali,2021,Fix2,Fix,Fix,Euro
-Malta,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Malta,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Malta,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Malta,2004,Basket,Undisclosed Basket,Undisclosed Basket,
 Malta,2005,Float2,Float,Float,Euro
 Malta,2006,Float2,Float,Float,Euro
 Malta,2007,Fix2,Fix,Fix,Euro
@@ -5279,27 +5279,27 @@ Malta,2018,Float*,Float,Float,Euro
 Malta,2019,Float*,Float,Float,Euro
 Malta,2020,Float*,Float,Float,Euro
 Malta,2021,Float*,Float,Float,Euro
-Mauritania,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritania,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Mauritania,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritania,1994,Basket,Undisclosed Basket,Undisclosed Basket,
 Mauritania,1995,Float1,Float,Float,SDR
 Mauritania,1996,Float1,Float,Float,SDR
 Mauritania,1997,Float1,Float,Float,SDR
@@ -5336,17 +5336,17 @@ Mauritius,1979,Interm*1,Interm,Crawling Peg,SDR
 Mauritius,1980,Fix1,Fix,Fix,SDR
 Mauritius,1981,Interm*1,Interm,Crawling Peg,SDR
 Mauritius,1982,Float1,Float,Float,SDR
-Mauritius,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mauritius,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Mauritius,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Mauritius,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Mauritius,1994,Interm2,Interm,Dirty Float,US dollar
 Mauritius,1995,Float1,Float,Float,US dollar
 Mauritius,1996,Interm*2,Interm,Crawling Peg,US dollar
@@ -5423,19 +5423,19 @@ Mexico**,2018,Interm*1,Interm,Crawling Peg,US dollar
 Mexico**,2019,Float1,Float,Float,US dollar
 Mexico**,2020,Interm*1,Interm,Crawling Peg,US dollar
 Mexico**,2021,Float1,Float,Float,US dollar
-"Micronesia, Federated States of",1974,NON,NON,NON,NaN
-"Micronesia, Federated States of",1975,NON,NON,NON,NaN
-"Micronesia, Federated States of",1976,NON,NON,NON,NaN
-"Micronesia, Federated States of",1977,NON,NON,NON,NaN
-"Micronesia, Federated States of",1978,NON,NON,NON,NaN
-"Micronesia, Federated States of",1979,NON,NON,NON,NaN
-"Micronesia, Federated States of",1980,NON,NON,NON,NaN
-"Micronesia, Federated States of",1981,NON,NON,NON,NaN
-"Micronesia, Federated States of",1982,NON,NON,NON,NaN
-"Micronesia, Federated States of",1983,NON,NON,NON,NaN
-"Micronesia, Federated States of",1984,NON,NON,NON,NaN
-"Micronesia, Federated States of",1985,NON,NON,NON,NaN
-"Micronesia, Federated States of",1986,NON,NON,NON,NaN
+"Micronesia, Federated States of",1974,NON,NON,NON,
+"Micronesia, Federated States of",1975,NON,NON,NON,
+"Micronesia, Federated States of",1976,NON,NON,NON,
+"Micronesia, Federated States of",1977,NON,NON,NON,
+"Micronesia, Federated States of",1978,NON,NON,NON,
+"Micronesia, Federated States of",1979,NON,NON,NON,
+"Micronesia, Federated States of",1980,NON,NON,NON,
+"Micronesia, Federated States of",1981,NON,NON,NON,
+"Micronesia, Federated States of",1982,NON,NON,NON,
+"Micronesia, Federated States of",1983,NON,NON,NON,
+"Micronesia, Federated States of",1984,NON,NON,NON,
+"Micronesia, Federated States of",1985,NON,NON,NON,
+"Micronesia, Federated States of",1986,NON,NON,NON,
 "Micronesia, Federated States of",1987,Fix*,Fix,Fix,US dollar
 "Micronesia, Federated States of",1988,Fix*,Fix,Fix,US dollar
 "Micronesia, Federated States of",1989,Fix*,Fix,Fix,US dollar
@@ -5471,23 +5471,23 @@ Mexico**,2021,Float1,Float,Float,US dollar
 "Micronesia, Federated States of",2019,Fix*,Fix,Fix,US dollar
 "Micronesia, Federated States of",2020,Fix*,Fix,Fix,US dollar
 "Micronesia, Federated States of",2021,Fix*,Fix,Fix,US dollar
-Moldova,1974,NON,NON,NON,NaN
-Moldova,1975,NON,NON,NON,NaN
-Moldova,1976,NON,NON,NON,NaN
-Moldova,1977,NON,NON,NON,NaN
-Moldova,1978,NON,NON,NON,NaN
-Moldova,1979,NON,NON,NON,NaN
-Moldova,1980,NON,NON,NON,NaN
-Moldova,1981,NON,NON,NON,NaN
-Moldova,1982,NON,NON,NON,NaN
-Moldova,1983,NON,NON,NON,NaN
-Moldova,1984,NON,NON,NON,NaN
-Moldova,1985,NON,NON,NON,NaN
-Moldova,1986,NON,NON,NON,NaN
-Moldova,1987,NON,NON,NON,NaN
-Moldova,1988,NON,NON,NON,NaN
-Moldova,1989,NON,NON,NON,NaN
-Moldova,1990,NON,NON,NON,NaN
+Moldova,1974,NON,NON,NON,
+Moldova,1975,NON,NON,NON,
+Moldova,1976,NON,NON,NON,
+Moldova,1977,NON,NON,NON,
+Moldova,1978,NON,NON,NON,
+Moldova,1979,NON,NON,NON,
+Moldova,1980,NON,NON,NON,
+Moldova,1981,NON,NON,NON,
+Moldova,1982,NON,NON,NON,
+Moldova,1983,NON,NON,NON,
+Moldova,1984,NON,NON,NON,
+Moldova,1985,NON,NON,NON,
+Moldova,1986,NON,NON,NON,
+Moldova,1987,NON,NON,NON,
+Moldova,1988,NON,NON,NON,
+Moldova,1989,NON,NON,NON,
+Moldova,1990,NON,NON,NON,
 Moldova,1991,Fix*,Fix,Fix,German Mark
 Moldova,1992,Interm3,Interm,Dirty Float,German Mark
 Moldova,1993,Interm3,Interm,Dirty Float,German Mark
@@ -5567,38 +5567,38 @@ Mongolia,2018,Float1,Float,Float,US dollar
 Mongolia,2019,Interm*2,Interm,Crawling Peg,US dollar
 Mongolia,2020,Interm*2,Interm,Crawling Peg,US dollar
 Mongolia,2021,Fix2,Fix,Fix,US dollar
-Montenegro,1974,NON,NON,NON,NaN
-Montenegro,1975,NON,NON,NON,NaN
-Montenegro,1976,NON,NON,NON,NaN
-Montenegro,1977,NON,NON,NON,NaN
-Montenegro,1978,NON,NON,NON,NaN
-Montenegro,1979,NON,NON,NON,NaN
-Montenegro,1980,NON,NON,NON,NaN
-Montenegro,1981,NON,NON,NON,NaN
-Montenegro,1982,NON,NON,NON,NaN
-Montenegro,1983,NON,NON,NON,NaN
-Montenegro,1984,NON,NON,NON,NaN
-Montenegro,1985,NON,NON,NON,NaN
-Montenegro,1986,NON,NON,NON,NaN
-Montenegro,1987,NON,NON,NON,NaN
-Montenegro,1988,NON,NON,NON,NaN
-Montenegro,1989,NON,NON,NON,NaN
-Montenegro,1990,NON,NON,NON,NaN
-Montenegro,1991,NON,NON,NON,NaN
-Montenegro,1992,NON,NON,NON,NaN
-Montenegro,1993,NON,NON,NON,NaN
-Montenegro,1994,NON,NON,NON,NaN
-Montenegro,1995,NON,NON,NON,NaN
-Montenegro,1996,NON,NON,NON,NaN
-Montenegro,1997,NON,NON,NON,NaN
-Montenegro,1998,NON,NON,NON,NaN
-Montenegro,1999,NON,NON,NON,NaN
-Montenegro,2000,NON,NON,NON,NaN
-Montenegro,2001,NON,NON,NON,NaN
-Montenegro,2002,NON,NON,NON,NaN
-Montenegro,2003,NON,NON,NON,NaN
-Montenegro,2004,NON,NON,NON,NaN
-Montenegro,2005,NON,NON,NON,NaN
+Montenegro,1974,NON,NON,NON,
+Montenegro,1975,NON,NON,NON,
+Montenegro,1976,NON,NON,NON,
+Montenegro,1977,NON,NON,NON,
+Montenegro,1978,NON,NON,NON,
+Montenegro,1979,NON,NON,NON,
+Montenegro,1980,NON,NON,NON,
+Montenegro,1981,NON,NON,NON,
+Montenegro,1982,NON,NON,NON,
+Montenegro,1983,NON,NON,NON,
+Montenegro,1984,NON,NON,NON,
+Montenegro,1985,NON,NON,NON,
+Montenegro,1986,NON,NON,NON,
+Montenegro,1987,NON,NON,NON,
+Montenegro,1988,NON,NON,NON,
+Montenegro,1989,NON,NON,NON,
+Montenegro,1990,NON,NON,NON,
+Montenegro,1991,NON,NON,NON,
+Montenegro,1992,NON,NON,NON,
+Montenegro,1993,NON,NON,NON,
+Montenegro,1994,NON,NON,NON,
+Montenegro,1995,NON,NON,NON,
+Montenegro,1996,NON,NON,NON,
+Montenegro,1997,NON,NON,NON,
+Montenegro,1998,NON,NON,NON,
+Montenegro,1999,NON,NON,NON,
+Montenegro,2000,NON,NON,NON,
+Montenegro,2001,NON,NON,NON,
+Montenegro,2002,NON,NON,NON,
+Montenegro,2003,NON,NON,NON,
+Montenegro,2004,NON,NON,NON,
+Montenegro,2005,NON,NON,NON,
 Montenegro,2006,Fix*,Fix,Fix,Euro
 Montenegro,2007,Fix*,Fix,Fix,Euro
 Montenegro,2008,Fix*,Fix,Fix,Euro
@@ -5615,10 +5615,10 @@ Montenegro,2018,Fix†,Fix,Fix,Euro
 Montenegro,2019,Fix†,Fix,Fix,Euro
 Montenegro,2020,Fix†,Fix,Fix,Euro
 Montenegro,2021,Fix†,Fix,Fix,Euro
-Morocco**,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Morocco**,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1977,Basket,Undisclosed Basket,Undisclosed Basket,
 Morocco**,1978,Float1,Float,Float,French Franc
 Morocco**,1979,Float2,Float,Float,French Franc
 Morocco**,1980,Float2,Float,Float,French Franc
@@ -5632,16 +5632,16 @@ Morocco**,1987,Float1,Float,Float,French Franc
 Morocco**,1988,Float1,Float,Float,French Franc
 Morocco**,1989,Float1,Float,Float,French Franc
 Morocco**,1990,Float1,Float,Float,French Franc
-Morocco**,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Morocco**,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Morocco**,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Morocco**,2000,Basket,Undisclosed Basket,Undisclosed Basket,
 Morocco**,2001,Float1,Float,Float,Euro
 Morocco**,2002,Incon,Low Volatility,Low Volatility,Euro
 Morocco**,2003,Float2,Float,Float,Euro
@@ -5673,14 +5673,14 @@ Mozambique,1980,OVM,OVM,OVM,US dollar
 Mozambique,1981,OVM,OVM,OVM,US dollar
 Mozambique,1982,OVM,OVM,OVM,US dollar
 Mozambique,1983,OVM,OVM,OVM,US dollar
-Mozambique,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mozambique,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mozambique,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Mozambique,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Mozambique,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Mozambique,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Mozambique,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Mozambique,1987,Basket,Undisclosed Basket,Undisclosed Basket,
 Mozambique,1988,OVM,OVM,OVM,US dollar
-Mozambique,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Mozambique,1989,Basket,Undisclosed Basket,Undisclosed Basket,
 Mozambique,1990,Fix3,Fix,Fix,US dollar
-Mozambique,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Mozambique,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Mozambique,1992,OVM,OVM,OVM,US dollar
 Mozambique,1993,Interm*1,Interm,Crawling Peg,US dollar
 Mozambique,1994,Float1,Float,Float,US dollar
@@ -5759,22 +5759,22 @@ Myanmar,2018,OVM,OVM,OVM,SDR
 Myanmar,2019,OVM,OVM,OVM,SDR
 Myanmar,2020,OVM,OVM,OVM,SDR
 Myanmar,2021,OVM,OVM,OVM,SDR
-Namibia,1974,NON,NON,NON,NaN
-Namibia,1975,NON,NON,NON,NaN
-Namibia,1976,NON,NON,NON,NaN
-Namibia,1977,NON,NON,NON,NaN
-Namibia,1978,NON,NON,NON,NaN
-Namibia,1979,NON,NON,NON,NaN
-Namibia,1980,NON,NON,NON,NaN
-Namibia,1981,NON,NON,NON,NaN
-Namibia,1982,NON,NON,NON,NaN
-Namibia,1983,NON,NON,NON,NaN
-Namibia,1984,NON,NON,NON,NaN
-Namibia,1985,NON,NON,NON,NaN
-Namibia,1986,NON,NON,NON,NaN
-Namibia,1987,NON,NON,NON,NaN
-Namibia,1988,NON,NON,NON,NaN
-Namibia,1989,NON,NON,NON,NaN
+Namibia,1974,NON,NON,NON,
+Namibia,1975,NON,NON,NON,
+Namibia,1976,NON,NON,NON,
+Namibia,1977,NON,NON,NON,
+Namibia,1978,NON,NON,NON,
+Namibia,1979,NON,NON,NON,
+Namibia,1980,NON,NON,NON,
+Namibia,1981,NON,NON,NON,
+Namibia,1982,NON,NON,NON,
+Namibia,1983,NON,NON,NON,
+Namibia,1984,NON,NON,NON,
+Namibia,1985,NON,NON,NON,
+Namibia,1986,NON,NON,NON,
+Namibia,1987,NON,NON,NON,
+Namibia,1988,NON,NON,NON,
+Namibia,1989,NON,NON,NON,
 Namibia,1990,Fix*,Fix,Fix,South African Rand
 Namibia,1991,Fix1,Fix,Fix,South African Rand
 Namibia,1992,Fix3,Fix,Fix,South African Rand
@@ -5864,20 +5864,20 @@ Nepal,1979,Fix†,Fix,Fix,US dollar
 Nepal,1980,Fix†,Fix,Fix,US dollar
 Nepal,1981,Float1,Float,Float,US dollar
 Nepal,1982,Interm2,Interm,Dirty Float,US dollar
-Nepal,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Nepal,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Nepal,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Nepal,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Nepal,1992,Fix†,Fix,Fix,Indian Rupee
 Nepal,1993,Interm*1,Interm,Crawling Peg,Indian Rupee
 Nepal,1994,Incon,Low Volatility,Low Volatility,Indian Rupee
 Nepal,1995,Interm2,Interm,Dirty Float,Indian Rupee
-Nepal,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Nepal,1996,Basket,Undisclosed Basket,Undisclosed Basket,
 Nepal,1997,Interm2,Interm,Dirty Float,Indian Rupee
 Nepal,1998,Float2,Float,Float,Indian Rupee
 Nepal,1999,Float2,Float,Float,Indian Rupee
@@ -5999,17 +5999,17 @@ Netherlands Antilles,2018,Fix†,Fix,Fix,US dollar
 Netherlands Antilles,2019,Fix†,Fix,Fix,US dollar
 Netherlands Antilles,2020,Fix†,Fix,Fix,US dollar
 Netherlands Antilles,2021,Fix†,Fix,Fix,US dollar
-New Zealand*,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-New Zealand*,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+New Zealand*,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+New Zealand*,1984,Basket,Undisclosed Basket,Undisclosed Basket,
 New Zealand*,1985,Fix3,Fix,Fix,US dollar
 New Zealand*,1986,Fix3,Fix,Fix,US dollar
 New Zealand*,1987,Fix1,Fix,Fix,US dollar
@@ -6191,24 +6191,24 @@ Nigeria**,2018,Fix2,Fix,Fix,US dollar
 Nigeria**,2019,Fix2,Fix,Fix,US dollar
 Nigeria**,2020,Interm*1,Interm,Crawling Peg,US dollar
 Nigeria**,2021,Float1,Float,Float,US dollar
-"North Macedonia, Republic of",1974,NON,NON,NON,NaN
-"North Macedonia, Republic of",1975,NON,NON,NON,NaN
-"North Macedonia, Republic of",1976,NON,NON,NON,NaN
-"North Macedonia, Republic of",1977,NON,NON,NON,NaN
-"North Macedonia, Republic of",1978,NON,NON,NON,NaN
-"North Macedonia, Republic of",1979,NON,NON,NON,NaN
-"North Macedonia, Republic of",1980,NON,NON,NON,NaN
-"North Macedonia, Republic of",1981,NON,NON,NON,NaN
-"North Macedonia, Republic of",1982,NON,NON,NON,NaN
-"North Macedonia, Republic of",1983,NON,NON,NON,NaN
-"North Macedonia, Republic of",1984,NON,NON,NON,NaN
-"North Macedonia, Republic of",1985,NON,NON,NON,NaN
-"North Macedonia, Republic of",1986,NON,NON,NON,NaN
-"North Macedonia, Republic of",1987,NON,NON,NON,NaN
-"North Macedonia, Republic of",1988,NON,NON,NON,NaN
-"North Macedonia, Republic of",1989,NON,NON,NON,NaN
-"North Macedonia, Republic of",1990,NON,NON,NON,NaN
-"North Macedonia, Republic of",1991,NON,NON,NON,NaN
+"North Macedonia, Republic of",1974,NON,NON,NON,
+"North Macedonia, Republic of",1975,NON,NON,NON,
+"North Macedonia, Republic of",1976,NON,NON,NON,
+"North Macedonia, Republic of",1977,NON,NON,NON,
+"North Macedonia, Republic of",1978,NON,NON,NON,
+"North Macedonia, Republic of",1979,NON,NON,NON,
+"North Macedonia, Republic of",1980,NON,NON,NON,
+"North Macedonia, Republic of",1981,NON,NON,NON,
+"North Macedonia, Republic of",1982,NON,NON,NON,
+"North Macedonia, Republic of",1983,NON,NON,NON,
+"North Macedonia, Republic of",1984,NON,NON,NON,
+"North Macedonia, Republic of",1985,NON,NON,NON,
+"North Macedonia, Republic of",1986,NON,NON,NON,
+"North Macedonia, Republic of",1987,NON,NON,NON,
+"North Macedonia, Republic of",1988,NON,NON,NON,
+"North Macedonia, Republic of",1989,NON,NON,NON,
+"North Macedonia, Republic of",1990,NON,NON,NON,
+"North Macedonia, Republic of",1991,NON,NON,NON,
 "North Macedonia, Republic of",1992,OVM,OVM,OVM,German Mark
 "North Macedonia, Republic of",1993,OVM,OVM,OVM,German Mark
 "North Macedonia, Republic of",1994,Float1,Float,Float,German Mark
@@ -6243,20 +6243,20 @@ Norway*,1974,Float1,Float,Float,German Mark
 Norway*,1975,Interm*2,Interm,Crawling Peg,German Mark
 Norway*,1976,Interm*2,Interm,Crawling Peg,German Mark
 Norway*,1977,Float1,Float,Float,German Mark
-Norway*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Norway*,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Norway*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Norway*,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Norway*,1992,Fix1,Fix,Fix,German Mark
 Norway*,1993,Fix1,Fix,Fix,German Mark
 Norway*,1994,Fix1,Fix,Fix,German Mark
@@ -6431,26 +6431,26 @@ Panama**,2018,Fix1,Fix,Fix,US dollar
 Panama**,2019,Fix1,Fix,Fix,US dollar
 Panama**,2020,Fix1,Fix,Fix,US dollar
 Panama**,2021,Fix1,Fix,Fix,US dollar
-Papua New Guinea,1974,NON,NON,NON,NaN
+Papua New Guinea,1974,NON,NON,NON,
 Papua New Guinea,1975,Fix2,Fix,Fix,Australian Dollar
 Papua New Guinea,1976,Interm*1,Interm,Crawling Peg,Australian Dollar
 Papua New Guinea,1977,Interm2,Interm,Dirty Float,Australian Dollar
 Papua New Guinea,1978,Float1,Float,Float,Australian Dollar
-Papua New Guinea,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Papua New Guinea,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Papua New Guinea,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Papua New Guinea,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Papua New Guinea,1994,Interm*1,Interm,Crawling Peg,Australian Dollar
 Papua New Guinea,1995,Fix1,Fix,Fix,US dollar
 Papua New Guinea,1996,Fix1,Fix,Fix,US dollar
@@ -6776,14 +6776,14 @@ Romania,1979,Fix*,Fix,Fix,US dollar
 Romania,1980,Fix*,Fix,Fix,US dollar
 Romania,1981,OVM,OVM,OVM,US dollar
 Romania,1982,Fix*,Fix,Fix,US dollar
-Romania,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Romania,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Romania,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Romania,1990,Basket,Undisclosed Basket,Undisclosed Basket,
 Romania,1991,Interm3,Interm,Dirty Float,US dollar
 Romania,1992,OVM,OVM,OVM,US dollar
 Romania,1993,Interm1,Interm,Dirty Float,US dollar
@@ -6815,8 +6815,8 @@ Romania,2018,Float1,Float,Float,Euro
 Romania,2019,Float1,Float,Float,Euro
 Romania,2020,Float1,Float,Float,Euro
 Romania,2021,Float1,Float,Float,Euro
-Russian Federation**,1974,NON,NON,NON,NaN
-Russian Federation**,1975,NON,NON,NON,NaN
+Russian Federation**,1974,NON,NON,NON,
+Russian Federation**,1975,NON,NON,NON,
 Russian Federation**,1976,OVM,OVM,OVM,US dollar
 Russian Federation**,1977,OVM,OVM,OVM,US dollar
 Russian Federation**,1978,OVM,OVM,OVM,US dollar
@@ -6911,54 +6911,54 @@ Rwanda,2018,Fix2,Fix,Fix,US dollar
 Rwanda,2019,Float2,Float,Float,US dollar
 Rwanda,2020,Float2,Float,Float,US dollar
 Rwanda,2021,Fix2,Fix,Fix,US dollar
-Samoa,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Samoa,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Samoa,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Samoa,2021,Basket,Undisclosed Basket,Undisclosed Basket,
 San Marino*,1974,Fix*,Fix,Fix,Italian Lira
 San Marino*,1975,Fix*,Fix,Fix,Italian Lira
 San Marino*,1976,Fix*,Fix,Fix,Italian Lira
@@ -7007,7 +7007,7 @@ San Marino*,2018,Fix2,Fix,Fix,Euro
 San Marino*,2019,Fix2,Fix,Fix,Euro
 San Marino*,2020,Fix2,Fix,Fix,Euro
 San Marino*,2021,Fix2,Fix,Fix,Euro
-Sao Tome and Principe,1974,NON,NON,NON,NaN
+Sao Tome and Principe,1974,NON,NON,NON,
 Sao Tome and Principe,1975,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1976,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1977,OVM,OVM,OVM,US dollar
@@ -7020,13 +7020,13 @@ Sao Tome and Principe,1983,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1984,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1985,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1986,OVM,OVM,OVM,US dollar
-Sao Tome and Principe,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sao Tome and Principe,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Sao Tome and Principe,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Sao Tome and Principe,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Sao Tome and Principe,1994,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1995,OVM,OVM,OVM,US dollar
 Sao Tome and Principe,1996,OVM,OVM,OVM,US dollar
@@ -7151,24 +7151,24 @@ Senegal,2018,Fix†,Fix,Fix,Euro
 Senegal,2019,Fix†,Fix,Fix,Euro
 Senegal,2020,Fix†,Fix,Fix,Euro
 Senegal,2021,Fix†,Fix,Fix,Euro
-"Serbia, Republic of",1974,NON,NON,NON,NaN
-"Serbia, Republic of",1975,NON,NON,NON,NaN
-"Serbia, Republic of",1976,NON,NON,NON,NaN
-"Serbia, Republic of",1977,NON,NON,NON,NaN
-"Serbia, Republic of",1978,NON,NON,NON,NaN
-"Serbia, Republic of",1979,NON,NON,NON,NaN
-"Serbia, Republic of",1980,NON,NON,NON,NaN
-"Serbia, Republic of",1981,NON,NON,NON,NaN
-"Serbia, Republic of",1982,NON,NON,NON,NaN
-"Serbia, Republic of",1983,NON,NON,NON,NaN
-"Serbia, Republic of",1984,NON,NON,NON,NaN
-"Serbia, Republic of",1985,NON,NON,NON,NaN
-"Serbia, Republic of",1986,NON,NON,NON,NaN
-"Serbia, Republic of",1987,NON,NON,NON,NaN
-"Serbia, Republic of",1988,NON,NON,NON,NaN
-"Serbia, Republic of",1989,NON,NON,NON,NaN
-"Serbia, Republic of",1990,NON,NON,NON,NaN
-"Serbia, Republic of",1991,NON,NON,NON,NaN
+"Serbia, Republic of",1974,NON,NON,NON,
+"Serbia, Republic of",1975,NON,NON,NON,
+"Serbia, Republic of",1976,NON,NON,NON,
+"Serbia, Republic of",1977,NON,NON,NON,
+"Serbia, Republic of",1978,NON,NON,NON,
+"Serbia, Republic of",1979,NON,NON,NON,
+"Serbia, Republic of",1980,NON,NON,NON,
+"Serbia, Republic of",1981,NON,NON,NON,
+"Serbia, Republic of",1982,NON,NON,NON,
+"Serbia, Republic of",1983,NON,NON,NON,
+"Serbia, Republic of",1984,NON,NON,NON,
+"Serbia, Republic of",1985,NON,NON,NON,
+"Serbia, Republic of",1986,NON,NON,NON,
+"Serbia, Republic of",1987,NON,NON,NON,
+"Serbia, Republic of",1988,NON,NON,NON,
+"Serbia, Republic of",1989,NON,NON,NON,
+"Serbia, Republic of",1990,NON,NON,NON,
+"Serbia, Republic of",1991,NON,NON,NON,
 "Serbia, Republic of",1992,OVM,OVM,OVM,
 "Serbia, Republic of",1993,OVM,OVM,OVM,
 "Serbia, Republic of",1994,OVM,OVM,OVM,
@@ -7199,8 +7199,8 @@ Senegal,2021,Fix†,Fix,Fix,Euro
 "Serbia, Republic of",2019,Float2,Float,Float,Euro
 "Serbia, Republic of",2020,Float2,Float,Float,Euro
 "Serbia, Republic of",2021,Float2,Float,Float,Euro
-Seychelles,1974,NON,NON,NON,NaN
-Seychelles,1975,NON,NON,NON,NaN
+Seychelles,1974,NON,NON,NON,
+Seychelles,1975,NON,NON,NON,
 Seychelles,1976,OVM,OVM,OVM,British Pound
 Seychelles,1977,Fix*,Fix,Fix,British Pound
 Seychelles,1978,Fix*,Fix,Fix,British Pound
@@ -7221,19 +7221,19 @@ Seychelles,1992,Float1,Float,Float,SDR
 Seychelles,1993,Fix†,Fix,Fix,SDR
 Seychelles,1994,Incon,Low Volatility,Low Volatility,SDR
 Seychelles,1995,Interm2,Interm,Dirty Float,SDR
-Seychelles,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Seychelles,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Seychelles,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Seychelles,2008,Basket,Undisclosed Basket,Undisclosed Basket,
 Seychelles,2009,Interm*1,Interm,Crawling Peg,US dollar
 Seychelles,2010,Float1,Float,Float,US dollar
 Seychelles,2011,Float1,Float,Float,US dollar
@@ -7295,75 +7295,75 @@ Sierra Leone,2018,Fix1,Fix,Fix,US dollar
 Sierra Leone,2019,Fix3,Fix,Fix,US dollar
 Sierra Leone,2020,Fix3,Fix,Fix,US dollar
 Sierra Leone,2021,Fix1,Fix,Fix,US dollar
-Singapore,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Singapore,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Slovak Republic,1974,NON,NON,NON,NaN
-Slovak Republic,1975,NON,NON,NON,NaN
-Slovak Republic,1976,NON,NON,NON,NaN
-Slovak Republic,1977,NON,NON,NON,NaN
-Slovak Republic,1978,NON,NON,NON,NaN
-Slovak Republic,1979,NON,NON,NON,NaN
-Slovak Republic,1980,NON,NON,NON,NaN
-Slovak Republic,1981,NON,NON,NON,NaN
-Slovak Republic,1982,NON,NON,NON,NaN
-Slovak Republic,1983,NON,NON,NON,NaN
-Slovak Republic,1984,NON,NON,NON,NaN
-Slovak Republic,1985,NON,NON,NON,NaN
-Slovak Republic,1986,NON,NON,NON,NaN
-Slovak Republic,1987,NON,NON,NON,NaN
-Slovak Republic,1988,NON,NON,NON,NaN
-Slovak Republic,1989,NON,NON,NON,NaN
-Slovak Republic,1990,NON,NON,NON,NaN
-Slovak Republic,1991,NON,NON,NON,NaN
-Slovak Republic,1992,NON,NON,NON,NaN
-Slovak Republic,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Slovak Republic,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Singapore,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Singapore,2021,Basket,Undisclosed Basket,Undisclosed Basket,
+Slovak Republic,1974,NON,NON,NON,
+Slovak Republic,1975,NON,NON,NON,
+Slovak Republic,1976,NON,NON,NON,
+Slovak Republic,1977,NON,NON,NON,
+Slovak Republic,1978,NON,NON,NON,
+Slovak Republic,1979,NON,NON,NON,
+Slovak Republic,1980,NON,NON,NON,
+Slovak Republic,1981,NON,NON,NON,
+Slovak Republic,1982,NON,NON,NON,
+Slovak Republic,1983,NON,NON,NON,
+Slovak Republic,1984,NON,NON,NON,
+Slovak Republic,1985,NON,NON,NON,
+Slovak Republic,1986,NON,NON,NON,
+Slovak Republic,1987,NON,NON,NON,
+Slovak Republic,1988,NON,NON,NON,
+Slovak Republic,1989,NON,NON,NON,
+Slovak Republic,1990,NON,NON,NON,
+Slovak Republic,1991,NON,NON,NON,
+Slovak Republic,1992,NON,NON,NON,
+Slovak Republic,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Slovak Republic,1994,Basket,Undisclosed Basket,Undisclosed Basket,
 Slovak Republic,1995,Float1,Float,Float,German Mark
 Slovak Republic,1996,Interm2,Interm,Dirty Float,German Mark
 Slovak Republic,1997,Float1,Float,Float,German Mark
@@ -7391,24 +7391,24 @@ Slovak Republic,2018,Float*,Float,Float,Euro
 Slovak Republic,2019,Float*,Float,Float,Euro
 Slovak Republic,2020,Float*,Float,Float,Euro
 Slovak Republic,2021,Float*,Float,Float,Euro
-Slovenia,1974,NON,NON,NON,NaN
-Slovenia,1975,NON,NON,NON,NaN
-Slovenia,1976,NON,NON,NON,NaN
-Slovenia,1977,NON,NON,NON,NaN
-Slovenia,1978,NON,NON,NON,NaN
-Slovenia,1979,NON,NON,NON,NaN
-Slovenia,1980,NON,NON,NON,NaN
-Slovenia,1981,NON,NON,NON,NaN
-Slovenia,1982,NON,NON,NON,NaN
-Slovenia,1983,NON,NON,NON,NaN
-Slovenia,1984,NON,NON,NON,NaN
-Slovenia,1985,NON,NON,NON,NaN
-Slovenia,1986,NON,NON,NON,NaN
-Slovenia,1987,NON,NON,NON,NaN
-Slovenia,1988,NON,NON,NON,NaN
-Slovenia,1989,NON,NON,NON,NaN
-Slovenia,1990,NON,NON,NON,NaN
-Slovenia,1991,NON,NON,NON,NaN
+Slovenia,1974,NON,NON,NON,
+Slovenia,1975,NON,NON,NON,
+Slovenia,1976,NON,NON,NON,
+Slovenia,1977,NON,NON,NON,
+Slovenia,1978,NON,NON,NON,
+Slovenia,1979,NON,NON,NON,
+Slovenia,1980,NON,NON,NON,
+Slovenia,1981,NON,NON,NON,
+Slovenia,1982,NON,NON,NON,
+Slovenia,1983,NON,NON,NON,
+Slovenia,1984,NON,NON,NON,
+Slovenia,1985,NON,NON,NON,
+Slovenia,1986,NON,NON,NON,
+Slovenia,1987,NON,NON,NON,
+Slovenia,1988,NON,NON,NON,
+Slovenia,1989,NON,NON,NON,
+Slovenia,1990,NON,NON,NON,
+Slovenia,1991,NON,NON,NON,
 Slovenia,1992,Interm1,Interm,Dirty Float,German Mark
 Slovenia,1993,Float1,Float,Float,German Mark
 Slovenia,1994,Fix1,Fix,Fix,German Mark
@@ -7444,49 +7444,49 @@ Solomon Islands,1975,OVM,OVM,OVM,Australian Dollar
 Solomon Islands,1976,Fix*,Fix,Fix,Australian Dollar
 Solomon Islands,1977,Fix*,Fix,Fix,Australian Dollar
 Solomon Islands,1978,Fix3,Fix,Fix,Australian Dollar
-Solomon Islands,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Solomon Islands,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Solomon Islands,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Solomon Islands,2021,Basket,Undisclosed Basket,Undisclosed Basket,
 Somalia,1974,Fix2,Fix,Fix,US dollar
 Somalia,1975,Fix†,Fix,Fix,US dollar
 Somalia,1976,Fix2,Fix,Fix,US dollar
@@ -7495,19 +7495,19 @@ Somalia,1978,Fix†,Fix,Fix,US dollar
 Somalia,1979,Fix†,Fix,Fix,US dollar
 Somalia,1980,Fix†,Fix,Fix,US dollar
 Somalia,1981,Fix†,Fix,Fix,US dollar
-Somalia,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Somalia,1982,Basket,Undisclosed Basket,Undisclosed Basket,
 Somalia,1983,Fix1,Fix,Fix,US dollar
 Somalia,1984,Interm1,Interm,Dirty Float,US dollar
 Somalia,1985,Interm1,Interm,Dirty Float,US dollar
 Somalia,1986,Interm*1,Interm,Crawling Peg,US dollar
 Somalia,1987,Interm1,Interm,Dirty Float,US dollar
-Somalia,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Somalia,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Somalia,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Somalia,1994,Basket,Undisclosed Basket,Undisclosed Basket,
 Somalia,1995,OVM,OVM,OVM,US dollar
 Somalia,1996,OVM,OVM,OVM,US dollar
 Somalia,1997,OVM,OVM,OVM,US dollar
@@ -7583,43 +7583,43 @@ South Africa**,2018,Interm*1,Interm,Crawling Peg,US dollar
 South Africa**,2019,Interm*1,Interm,Crawling Peg,US dollar
 South Africa**,2020,Interm*1,Interm,Crawling Peg,US dollar
 South Africa**,2021,Float1,Float,Float,US dollar
-South Sudan,1974,NON,NON,NON,NaN
-South Sudan,1975,NON,NON,NON,NaN
-South Sudan,1976,NON,NON,NON,NaN
-South Sudan,1977,NON,NON,NON,NaN
-South Sudan,1978,NON,NON,NON,NaN
-South Sudan,1979,NON,NON,NON,NaN
-South Sudan,1980,NON,NON,NON,NaN
-South Sudan,1981,NON,NON,NON,NaN
-South Sudan,1982,NON,NON,NON,NaN
-South Sudan,1983,NON,NON,NON,NaN
-South Sudan,1984,NON,NON,NON,NaN
-South Sudan,1985,NON,NON,NON,NaN
-South Sudan,1986,NON,NON,NON,NaN
-South Sudan,1987,NON,NON,NON,NaN
-South Sudan,1988,NON,NON,NON,NaN
-South Sudan,1989,NON,NON,NON,NaN
-South Sudan,1990,NON,NON,NON,NaN
-South Sudan,1991,NON,NON,NON,NaN
-South Sudan,1992,NON,NON,NON,NaN
-South Sudan,1993,NON,NON,NON,NaN
-South Sudan,1994,NON,NON,NON,NaN
-South Sudan,1995,NON,NON,NON,NaN
-South Sudan,1996,NON,NON,NON,NaN
-South Sudan,1997,NON,NON,NON,NaN
-South Sudan,1998,NON,NON,NON,NaN
-South Sudan,1999,NON,NON,NON,NaN
-South Sudan,2000,NON,NON,NON,NaN
-South Sudan,2001,NON,NON,NON,NaN
-South Sudan,2002,NON,NON,NON,NaN
-South Sudan,2003,NON,NON,NON,NaN
-South Sudan,2004,NON,NON,NON,NaN
-South Sudan,2005,NON,NON,NON,NaN
-South Sudan,2006,NON,NON,NON,NaN
-South Sudan,2007,NON,NON,NON,NaN
-South Sudan,2008,NON,NON,NON,NaN
-South Sudan,2009,NON,NON,NON,NaN
-South Sudan,2010,NON,NON,NON,NaN
+South Sudan,1974,NON,NON,NON,
+South Sudan,1975,NON,NON,NON,
+South Sudan,1976,NON,NON,NON,
+South Sudan,1977,NON,NON,NON,
+South Sudan,1978,NON,NON,NON,
+South Sudan,1979,NON,NON,NON,
+South Sudan,1980,NON,NON,NON,
+South Sudan,1981,NON,NON,NON,
+South Sudan,1982,NON,NON,NON,
+South Sudan,1983,NON,NON,NON,
+South Sudan,1984,NON,NON,NON,
+South Sudan,1985,NON,NON,NON,
+South Sudan,1986,NON,NON,NON,
+South Sudan,1987,NON,NON,NON,
+South Sudan,1988,NON,NON,NON,
+South Sudan,1989,NON,NON,NON,
+South Sudan,1990,NON,NON,NON,
+South Sudan,1991,NON,NON,NON,
+South Sudan,1992,NON,NON,NON,
+South Sudan,1993,NON,NON,NON,
+South Sudan,1994,NON,NON,NON,
+South Sudan,1995,NON,NON,NON,
+South Sudan,1996,NON,NON,NON,
+South Sudan,1997,NON,NON,NON,
+South Sudan,1998,NON,NON,NON,
+South Sudan,1999,NON,NON,NON,
+South Sudan,2000,NON,NON,NON,
+South Sudan,2001,NON,NON,NON,
+South Sudan,2002,NON,NON,NON,
+South Sudan,2003,NON,NON,NON,
+South Sudan,2004,NON,NON,NON,
+South Sudan,2005,NON,NON,NON,
+South Sudan,2006,NON,NON,NON,
+South Sudan,2007,NON,NON,NON,
+South Sudan,2008,NON,NON,NON,
+South Sudan,2009,NON,NON,NON,
+South Sudan,2010,NON,NON,NON,
 South Sudan,2011,OVM,OVM,OVM,US dollar
 South Sudan,2012,Fix2,Fix,Fix,US dollar
 South Sudan,2013,Fix2,Fix,Fix,US dollar
@@ -7631,9 +7631,9 @@ South Sudan,2018,Float1,Float,Float,US dollar
 South Sudan,2019,Float1,Float,Float,US dollar
 South Sudan,2020,Float1,Float,Float,US dollar
 South Sudan,2021,Interm1,Interm,Dirty Float,US dollar
-Spain*,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Spain*,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Spain*,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Spain*,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Spain*,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Spain*,1976,Basket,Undisclosed Basket,Undisclosed Basket,
 Spain*,1977,Interm*1,Interm,Crawling Peg,German Mark
 Spain*,1978,Float1,Float,Float,German Mark
 Spain*,1979,Float1,Float,Float,German Mark
@@ -7970,21 +7970,21 @@ Suriname,2021,Interm1,Interm,Dirty Float,US dollar
 Sweden*,1974,Interm2,Interm,Dirty Float,German Mark
 Sweden*,1975,Interm2,Interm,Dirty Float,German Mark
 Sweden*,1976,Interm2,Interm,Dirty Float,German Mark
-Sweden*,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Sweden*,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Sweden*,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Sweden*,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Sweden*,1992,Fix3,Fix,Fix,German Mark
 Sweden*,1993,Fix1,Fix,Fix,German Mark
 Sweden*,1994,Float1,Float,Float,German Mark
@@ -8111,24 +8111,24 @@ Syrian Arab Republic,2018,Fix*,Fix,Fix,US dollar
 Syrian Arab Republic,2019,OVM,OVM,OVM,US dollar
 Syrian Arab Republic,2020,OVM,OVM,OVM,US dollar
 Syrian Arab Republic,2021,OVM,OVM,OVM,US dollar
-Tajikistan,1974,NON,NON,NON,NaN
-Tajikistan,1975,NON,NON,NON,NaN
-Tajikistan,1976,NON,NON,NON,NaN
-Tajikistan,1977,NON,NON,NON,NaN
-Tajikistan,1978,NON,NON,NON,NaN
-Tajikistan,1979,NON,NON,NON,NaN
-Tajikistan,1980,NON,NON,NON,NaN
-Tajikistan,1981,NON,NON,NON,NaN
-Tajikistan,1982,NON,NON,NON,NaN
-Tajikistan,1983,NON,NON,NON,NaN
-Tajikistan,1984,NON,NON,NON,NaN
-Tajikistan,1985,NON,NON,NON,NaN
-Tajikistan,1986,NON,NON,NON,NaN
-Tajikistan,1987,NON,NON,NON,NaN
-Tajikistan,1988,NON,NON,NON,NaN
-Tajikistan,1989,NON,NON,NON,NaN
-Tajikistan,1990,NON,NON,NON,NaN
-Tajikistan,1991,NON,NON,NON,NaN
+Tajikistan,1974,NON,NON,NON,
+Tajikistan,1975,NON,NON,NON,
+Tajikistan,1976,NON,NON,NON,
+Tajikistan,1977,NON,NON,NON,
+Tajikistan,1978,NON,NON,NON,
+Tajikistan,1979,NON,NON,NON,
+Tajikistan,1980,NON,NON,NON,
+Tajikistan,1981,NON,NON,NON,
+Tajikistan,1982,NON,NON,NON,
+Tajikistan,1983,NON,NON,NON,
+Tajikistan,1984,NON,NON,NON,
+Tajikistan,1985,NON,NON,NON,
+Tajikistan,1986,NON,NON,NON,
+Tajikistan,1987,NON,NON,NON,
+Tajikistan,1988,NON,NON,NON,
+Tajikistan,1989,NON,NON,NON,
+Tajikistan,1990,NON,NON,NON,
+Tajikistan,1991,NON,NON,NON,
 Tajikistan,1992,Fix*,Fix,Fix,Russian Ruble
 Tajikistan,1993,Fix*,Fix,Fix,Russian Ruble
 Tajikistan,1994,OVM,OVM,OVM,Russian Ruble
@@ -8164,20 +8164,20 @@ Tanzania,1975,Float1,Float,Float,SDR
 Tanzania,1976,Float2,Float,Float,SDR
 Tanzania,1977,Float2,Float,Float,SDR
 Tanzania,1978,Float1,Float,Float,SDR
-Tanzania,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tanzania,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Tanzania,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Tanzania,1992,Basket,Undisclosed Basket,Undisclosed Basket,
 Tanzania,1993,Interm*1,Interm,Crawling Peg,US dollar
 Tanzania,1994,Float1,Float,Float,US dollar
 Tanzania,1995,Float1,Float,Float,US dollar
@@ -8255,34 +8255,34 @@ Thailand**,2018,Float1,Float,Float,US dollar
 Thailand**,2019,Float1,Float,Float,US dollar
 Thailand**,2020,Float1,Float,Float,US dollar
 Thailand**,2021,Float1,Float,Float,US dollar
-"Timor-Leste, Dem. Rep. of",1974,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1975,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1976,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1977,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1978,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1979,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1980,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1981,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1982,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1983,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1984,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1985,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1986,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1987,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1988,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1989,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1990,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1991,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1992,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1993,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1994,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1995,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1996,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1997,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1998,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",1999,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",2000,NON,NON,NON,NaN
-"Timor-Leste, Dem. Rep. of",2001,NON,NON,NON,NaN
+"Timor-Leste, Dem. Rep. of",1974,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1975,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1976,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1977,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1978,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1979,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1980,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1981,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1982,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1983,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1984,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1985,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1986,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1987,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1988,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1989,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1990,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1991,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1992,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1993,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1994,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1995,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1996,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1997,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1998,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",1999,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",2000,NON,NON,NON,
+"Timor-Leste, Dem. Rep. of",2001,NON,NON,NON,
 "Timor-Leste, Dem. Rep. of",2002,Fix3,Fix,Fix,US dollar
 "Timor-Leste, Dem. Rep. of",2003,Fix3,Fix,Fix,US dollar
 "Timor-Leste, Dem. Rep. of",2004,Fix1,Fix,Fix,US dollar
@@ -8369,36 +8369,36 @@ Tonga,1988,Fix†,Fix,Fix,Australian Dollar
 Tonga,1989,Float2,Float,Float,Australian Dollar
 Tonga,1990,Float2,Float,Float,Australian Dollar
 Tonga,1991,Interm2,Interm,Dirty Float,Australian Dollar
-Tonga,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tonga,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Tonga,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Tonga,2021,Basket,Undisclosed Basket,Undisclosed Basket,
 Trinidad and Tobago,1974,Fix1,Fix,Fix,British Pound
 Trinidad and Tobago,1975,Fix2,Fix,Fix,British Pound
 Trinidad and Tobago,1976,Float1,Float,Float,US dollar
@@ -8447,18 +8447,18 @@ Trinidad and Tobago,2018,Fix1,Fix,Fix,US dollar
 Trinidad and Tobago,2019,Fix1,Fix,Fix,US dollar
 Trinidad and Tobago,2020,Fix2,Fix,Fix,US dollar
 Trinidad and Tobago,2021,Float2,Float,Float,US dollar
-Tunisia,1974,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1975,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1976,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1977,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1978,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1979,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Tunisia,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Tunisia,1974,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1975,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1976,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1977,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1978,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1979,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Tunisia,1985,Basket,Undisclosed Basket,Undisclosed Basket,
 Tunisia,1986,Interm*1,Interm,Crawling Peg,French Franc
 Tunisia,1987,Interm2,Interm,Dirty Float,French Franc
 Tunisia,1988,Interm2,Interm,Dirty Float,French Franc
@@ -8543,24 +8543,24 @@ Turkey**,2018,Interm1,Interm,Dirty Float,US dollar
 Turkey**,2019,Float1,Float,Float,US dollar
 Turkey**,2020,Interm*1,Interm,Crawling Peg,US dollar
 Turkey**,2021,Interm1,Interm,Dirty Float,US dollar
-Turkmenistan,1974,NON,NON,NON,NaN
-Turkmenistan,1975,NON,NON,NON,NaN
-Turkmenistan,1976,NON,NON,NON,NaN
-Turkmenistan,1977,NON,NON,NON,NaN
-Turkmenistan,1978,NON,NON,NON,NaN
-Turkmenistan,1979,NON,NON,NON,NaN
-Turkmenistan,1980,NON,NON,NON,NaN
-Turkmenistan,1981,NON,NON,NON,NaN
-Turkmenistan,1982,NON,NON,NON,NaN
-Turkmenistan,1983,NON,NON,NON,NaN
-Turkmenistan,1984,NON,NON,NON,NaN
-Turkmenistan,1985,NON,NON,NON,NaN
-Turkmenistan,1986,NON,NON,NON,NaN
-Turkmenistan,1987,NON,NON,NON,NaN
-Turkmenistan,1988,NON,NON,NON,NaN
-Turkmenistan,1989,NON,NON,NON,NaN
-Turkmenistan,1990,NON,NON,NON,NaN
-Turkmenistan,1991,NON,NON,NON,NaN
+Turkmenistan,1974,NON,NON,NON,
+Turkmenistan,1975,NON,NON,NON,
+Turkmenistan,1976,NON,NON,NON,
+Turkmenistan,1977,NON,NON,NON,
+Turkmenistan,1978,NON,NON,NON,
+Turkmenistan,1979,NON,NON,NON,
+Turkmenistan,1980,NON,NON,NON,
+Turkmenistan,1981,NON,NON,NON,
+Turkmenistan,1982,NON,NON,NON,
+Turkmenistan,1983,NON,NON,NON,
+Turkmenistan,1984,NON,NON,NON,
+Turkmenistan,1985,NON,NON,NON,
+Turkmenistan,1986,NON,NON,NON,
+Turkmenistan,1987,NON,NON,NON,
+Turkmenistan,1988,NON,NON,NON,
+Turkmenistan,1989,NON,NON,NON,
+Turkmenistan,1990,NON,NON,NON,
+Turkmenistan,1991,NON,NON,NON,
 Turkmenistan,1992,Fix*,Fix,Fix,Russian Ruble
 Turkmenistan,1993,Fix*,Fix,Fix,US dollar
 Turkmenistan,1994,OVM,OVM,OVM,US dollar
@@ -8591,11 +8591,11 @@ Turkmenistan,2018,OVM,OVM,OVM,US dollar
 Turkmenistan,2019,OVM,OVM,OVM,US dollar
 Turkmenistan,2020,OVM,OVM,OVM,US dollar
 Turkmenistan,2021,OVM,OVM,OVM,US dollar
-Tuvalu,1974,NON,NON,NON,NaN
-Tuvalu,1975,NON,NON,NON,NaN
-Tuvalu,1976,NON,NON,NON,NaN
-Tuvalu,1977,NON,NON,NON,NaN
-Tuvalu,1978,NON,NON,NON,NaN
+Tuvalu,1974,NON,NON,NON,
+Tuvalu,1975,NON,NON,NON,
+Tuvalu,1976,NON,NON,NON,
+Tuvalu,1977,NON,NON,NON,
+Tuvalu,1978,NON,NON,NON,
 Tuvalu,1979,OVM,OVM,OVM,Australian Dollar
 Tuvalu,1980,OVM,OVM,OVM,Australian Dollar
 Tuvalu,1981,OVM,OVM,OVM,Australian Dollar
@@ -8654,9 +8654,9 @@ Uganda,1985,Interm1,Interm,Dirty Float,US dollar
 Uganda,1986,Float1,Float,Float,US dollar
 Uganda,1987,OVM,OVM,OVM,US dollar
 Uganda,1988,OVM,OVM,OVM,US dollar
-Uganda,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Uganda,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Uganda,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Uganda,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Uganda,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Uganda,1991,Basket,Undisclosed Basket,Undisclosed Basket,
 Uganda,1992,Interm*1,Interm,Crawling Peg,US dollar
 Uganda,1993,Fix1,Fix,Fix,US dollar
 Uganda,1994,Fix1,Fix,Fix,US dollar
@@ -8687,24 +8687,24 @@ Uganda,2018,Float1,Float,Float,US dollar
 Uganda,2019,Interm*2,Interm,Crawling Peg,US dollar
 Uganda,2020,Fix1,Fix,Fix,US dollar
 Uganda,2021,Interm2,Interm,Dirty Float,US dollar
-Ukraine,1974,NON,NON,NON,NaN
-Ukraine,1975,NON,NON,NON,NaN
-Ukraine,1976,NON,NON,NON,NaN
-Ukraine,1977,NON,NON,NON,NaN
-Ukraine,1978,NON,NON,NON,NaN
-Ukraine,1979,NON,NON,NON,NaN
-Ukraine,1980,NON,NON,NON,NaN
-Ukraine,1981,NON,NON,NON,NaN
-Ukraine,1982,NON,NON,NON,NaN
-Ukraine,1983,NON,NON,NON,NaN
-Ukraine,1984,NON,NON,NON,NaN
-Ukraine,1985,NON,NON,NON,NaN
-Ukraine,1986,NON,NON,NON,NaN
-Ukraine,1987,NON,NON,NON,NaN
-Ukraine,1988,NON,NON,NON,NaN
-Ukraine,1989,NON,NON,NON,NaN
-Ukraine,1990,NON,NON,NON,NaN
-Ukraine,1991,NON,NON,NON,NaN
+Ukraine,1974,NON,NON,NON,
+Ukraine,1975,NON,NON,NON,
+Ukraine,1976,NON,NON,NON,
+Ukraine,1977,NON,NON,NON,
+Ukraine,1978,NON,NON,NON,
+Ukraine,1979,NON,NON,NON,
+Ukraine,1980,NON,NON,NON,
+Ukraine,1981,NON,NON,NON,
+Ukraine,1982,NON,NON,NON,
+Ukraine,1983,NON,NON,NON,
+Ukraine,1984,NON,NON,NON,
+Ukraine,1985,NON,NON,NON,
+Ukraine,1986,NON,NON,NON,
+Ukraine,1987,NON,NON,NON,
+Ukraine,1988,NON,NON,NON,
+Ukraine,1989,NON,NON,NON,
+Ukraine,1990,NON,NON,NON,
+Ukraine,1991,NON,NON,NON,
 Ukraine,1992,OVM,OVM,OVM,US dollar
 Ukraine,1993,Interm3,Interm,Dirty Float,US dollar
 Ukraine,1994,Interm3,Interm,Dirty Float,US dollar
@@ -8927,23 +8927,23 @@ Uruguay,2018,Fix1,Fix,Fix,US dollar
 Uruguay,2019,Float1,Float,Float,US dollar
 Uruguay,2020,Fix1,Fix,Fix,US dollar
 Uruguay,2021,Fix1,Fix,Fix,US dollar
-Uzbekistan,1974,NON,NON,NON,NaN
-Uzbekistan,1975,NON,NON,NON,NaN
-Uzbekistan,1976,NON,NON,NON,NaN
-Uzbekistan,1977,NON,NON,NON,NaN
-Uzbekistan,1978,NON,NON,NON,NaN
-Uzbekistan,1979,NON,NON,NON,NaN
-Uzbekistan,1980,NON,NON,NON,NaN
-Uzbekistan,1981,NON,NON,NON,NaN
-Uzbekistan,1982,NON,NON,NON,NaN
-Uzbekistan,1983,NON,NON,NON,NaN
-Uzbekistan,1984,NON,NON,NON,NaN
-Uzbekistan,1985,NON,NON,NON,NaN
-Uzbekistan,1986,NON,NON,NON,NaN
-Uzbekistan,1987,NON,NON,NON,NaN
-Uzbekistan,1988,NON,NON,NON,NaN
-Uzbekistan,1989,NON,NON,NON,NaN
-Uzbekistan,1990,NON,NON,NON,NaN
+Uzbekistan,1974,NON,NON,NON,
+Uzbekistan,1975,NON,NON,NON,
+Uzbekistan,1976,NON,NON,NON,
+Uzbekistan,1977,NON,NON,NON,
+Uzbekistan,1978,NON,NON,NON,
+Uzbekistan,1979,NON,NON,NON,
+Uzbekistan,1980,NON,NON,NON,
+Uzbekistan,1981,NON,NON,NON,
+Uzbekistan,1982,NON,NON,NON,
+Uzbekistan,1983,NON,NON,NON,
+Uzbekistan,1984,NON,NON,NON,
+Uzbekistan,1985,NON,NON,NON,
+Uzbekistan,1986,NON,NON,NON,
+Uzbekistan,1987,NON,NON,NON,
+Uzbekistan,1988,NON,NON,NON,
+Uzbekistan,1989,NON,NON,NON,
+Uzbekistan,1990,NON,NON,NON,
 Uzbekistan,1991,Fix*,Fix,Fix,Russian Ruble
 Uzbekistan,1992,Fix*,Fix,Fix,Russian Ruble
 Uzbekistan,1993,OVM,OVM,OVM,Russian Ruble
@@ -8982,47 +8982,47 @@ Vanuatu,1977,OVM,OVM,OVM,French Franc
 Vanuatu,1978,Fix*,Fix,Fix,French Franc
 Vanuatu,1979,Fix*,Fix,Fix,French Franc
 Vanuatu,1980,Fix*,Fix,Fix,French Franc
-Vanuatu,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1994,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1995,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1996,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1997,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1998,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,1999,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2000,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2001,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2002,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2003,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2004,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2005,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2006,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2007,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2008,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2009,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2010,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2011,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2012,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2013,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vanuatu,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Vanuatu,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1993,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1994,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1995,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1996,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1997,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1998,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,1999,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2000,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2001,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2002,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2003,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2004,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2005,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2006,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2007,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2008,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2009,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2010,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2011,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2012,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2013,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Vanuatu,2021,Basket,Undisclosed Basket,Undisclosed Basket,
 "Venezuela, Republica Bolivariana de**",1974,Fix1,Fix,Fix,US dollar
 "Venezuela, Republica Bolivariana de**",1975,Fix2,Fix,Fix,US dollar
 "Venezuela, Republica Bolivariana de**",1976,Fix†,Fix,Fix,US dollar
@@ -9080,9 +9080,9 @@ Vietnam,1979,OVM,OVM,OVM,US dollar
 Vietnam,1980,OVM,OVM,OVM,US dollar
 Vietnam,1981,OVM,OVM,OVM,US dollar
 Vietnam,1982,OVM,OVM,OVM,US dollar
-Vietnam,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Vietnam,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,1985,Basket,Undisclosed Basket,Undisclosed Basket,
 Vietnam,1986,Fix*,Fix,Fix,US dollar
 Vietnam,1987,OVM,OVM,OVM,US dollar
 Vietnam,1988,OVM,OVM,OVM,US dollar
@@ -9111,14 +9111,14 @@ Vietnam,2010,Interm2,Interm,Dirty Float,US dollar
 Vietnam,2011,Float1,Float,Float,US dollar
 Vietnam,2012,Incon,Low Volatility,Low Volatility,US dollar
 Vietnam,2013,Incon,Low Volatility,Low Volatility,US dollar
-Vietnam,2014,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2015,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2016,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2017,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2018,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2019,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2020,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Vietnam,2021,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Vietnam,2014,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2015,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2016,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2017,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2018,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2019,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2020,Basket,Undisclosed Basket,Undisclosed Basket,
+Vietnam,2021,Basket,Undisclosed Basket,Undisclosed Basket,
 Yemen Arab Rep.,1974,Fix*,Fix,Fix,US dollar
 Yemen Arab Rep.,1975,OVM,OVM,OVM,US dollar
 Yemen Arab Rep.,1976,Fix*,Fix,Fix,US dollar
@@ -9136,37 +9136,37 @@ Yemen Arab Rep.,1987,OVM,OVM,OVM,US dollar
 Yemen Arab Rep.,1988,OVM,OVM,OVM,US dollar
 Yemen Arab Rep.,1989,Fix*,Fix,Fix,US dollar
 Yemen Arab Rep.,1990,OVM,OVM,OVM,US dollar
-Yemen Arab Rep.,1991,NON,NON,NON,NaN
-Yemen Arab Rep.,1992,NON,NON,NON,NaN
-Yemen Arab Rep.,1993,NON,NON,NON,NaN
-Yemen Arab Rep.,1994,NON,NON,NON,NaN
-Yemen Arab Rep.,1995,NON,NON,NON,NaN
-Yemen Arab Rep.,1996,NON,NON,NON,NaN
-Yemen Arab Rep.,1997,NON,NON,NON,NaN
-Yemen Arab Rep.,1998,NON,NON,NON,NaN
-Yemen Arab Rep.,1999,NON,NON,NON,NaN
-Yemen Arab Rep.,2000,NON,NON,NON,NaN
-Yemen Arab Rep.,2001,NON,NON,NON,NaN
-Yemen Arab Rep.,2002,NON,NON,NON,NaN
-Yemen Arab Rep.,2003,NON,NON,NON,NaN
-Yemen Arab Rep.,2004,NON,NON,NON,NaN
-Yemen Arab Rep.,2005,NON,NON,NON,NaN
-Yemen Arab Rep.,2006,NON,NON,NON,NaN
-Yemen Arab Rep.,2007,NON,NON,NON,NaN
-Yemen Arab Rep.,2008,NON,NON,NON,NaN
-Yemen Arab Rep.,2009,NON,NON,NON,NaN
-Yemen Arab Rep.,2010,NON,NON,NON,NaN
-Yemen Arab Rep.,2011,NON,NON,NON,NaN
-Yemen Arab Rep.,2012,NON,NON,NON,NaN
-Yemen Arab Rep.,2013,NON,NON,NON,NaN
-Yemen Arab Rep.,2014,NON,NON,NON,NaN
-Yemen Arab Rep.,2015,NON,NON,NON,NaN
-Yemen Arab Rep.,2016,NON,NON,NON,NaN
-Yemen Arab Rep.,2017,NON,NON,NON,NaN
-Yemen Arab Rep.,2018,NON,NON,NON,NaN
-Yemen Arab Rep.,2019,NON,NON,NON,NaN
-Yemen Arab Rep.,2020,NON,NON,NON,NaN
-Yemen Arab Rep.,2021,NON,NON,NON,NaN
+Yemen Arab Rep.,1991,NON,NON,NON,
+Yemen Arab Rep.,1992,NON,NON,NON,
+Yemen Arab Rep.,1993,NON,NON,NON,
+Yemen Arab Rep.,1994,NON,NON,NON,
+Yemen Arab Rep.,1995,NON,NON,NON,
+Yemen Arab Rep.,1996,NON,NON,NON,
+Yemen Arab Rep.,1997,NON,NON,NON,
+Yemen Arab Rep.,1998,NON,NON,NON,
+Yemen Arab Rep.,1999,NON,NON,NON,
+Yemen Arab Rep.,2000,NON,NON,NON,
+Yemen Arab Rep.,2001,NON,NON,NON,
+Yemen Arab Rep.,2002,NON,NON,NON,
+Yemen Arab Rep.,2003,NON,NON,NON,
+Yemen Arab Rep.,2004,NON,NON,NON,
+Yemen Arab Rep.,2005,NON,NON,NON,
+Yemen Arab Rep.,2006,NON,NON,NON,
+Yemen Arab Rep.,2007,NON,NON,NON,
+Yemen Arab Rep.,2008,NON,NON,NON,
+Yemen Arab Rep.,2009,NON,NON,NON,
+Yemen Arab Rep.,2010,NON,NON,NON,
+Yemen Arab Rep.,2011,NON,NON,NON,
+Yemen Arab Rep.,2012,NON,NON,NON,
+Yemen Arab Rep.,2013,NON,NON,NON,
+Yemen Arab Rep.,2014,NON,NON,NON,
+Yemen Arab Rep.,2015,NON,NON,NON,
+Yemen Arab Rep.,2016,NON,NON,NON,
+Yemen Arab Rep.,2017,NON,NON,NON,
+Yemen Arab Rep.,2018,NON,NON,NON,
+Yemen Arab Rep.,2019,NON,NON,NON,
+Yemen Arab Rep.,2020,NON,NON,NON,
+Yemen Arab Rep.,2021,NON,NON,NON,
 "Yemen, People's Dem. Rep. of",1974,Fix*,Fix,Fix,US dollar
 "Yemen, People's Dem. Rep. of",1975,Fix*,Fix,Fix,US dollar
 "Yemen, People's Dem. Rep. of",1976,Fix*,Fix,Fix,US dollar
@@ -9184,53 +9184,53 @@ Yemen Arab Rep.,2021,NON,NON,NON,NaN
 "Yemen, People's Dem. Rep. of",1988,Fix*,Fix,Fix,US dollar
 "Yemen, People's Dem. Rep. of",1989,Fix*,Fix,Fix,US dollar
 "Yemen, People's Dem. Rep. of",1990,OVM,OVM,OVM,US dollar
-"Yemen, People's Dem. Rep. of",1991,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1992,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1993,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1994,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1995,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1996,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1997,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1998,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",1999,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2000,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2001,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2002,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2003,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2004,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2005,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2006,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2007,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2008,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2009,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2010,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2011,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2012,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2013,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2014,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2015,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2016,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2017,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2018,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2019,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2020,NON,NON,NON,NaN
-"Yemen, People's Dem. Rep. of",2021,NON,NON,NON,NaN
-"Yemen, Republic of",1974,NON,NON,NON,NaN
-"Yemen, Republic of",1975,NON,NON,NON,NaN
-"Yemen, Republic of",1976,NON,NON,NON,NaN
-"Yemen, Republic of",1977,NON,NON,NON,NaN
-"Yemen, Republic of",1978,NON,NON,NON,NaN
-"Yemen, Republic of",1979,NON,NON,NON,NaN
-"Yemen, Republic of",1980,NON,NON,NON,NaN
-"Yemen, Republic of",1981,NON,NON,NON,NaN
-"Yemen, Republic of",1982,NON,NON,NON,NaN
-"Yemen, Republic of",1983,NON,NON,NON,NaN
-"Yemen, Republic of",1984,NON,NON,NON,NaN
-"Yemen, Republic of",1985,NON,NON,NON,NaN
-"Yemen, Republic of",1986,NON,NON,NON,NaN
-"Yemen, Republic of",1987,NON,NON,NON,NaN
-"Yemen, Republic of",1988,NON,NON,NON,NaN
-"Yemen, Republic of",1989,NON,NON,NON,NaN
+"Yemen, People's Dem. Rep. of",1991,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1992,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1993,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1994,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1995,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1996,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1997,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1998,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",1999,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2000,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2001,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2002,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2003,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2004,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2005,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2006,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2007,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2008,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2009,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2010,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2011,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2012,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2013,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2014,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2015,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2016,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2017,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2018,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2019,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2020,NON,NON,NON,
+"Yemen, People's Dem. Rep. of",2021,NON,NON,NON,
+"Yemen, Republic of",1974,NON,NON,NON,
+"Yemen, Republic of",1975,NON,NON,NON,
+"Yemen, Republic of",1976,NON,NON,NON,
+"Yemen, Republic of",1977,NON,NON,NON,
+"Yemen, Republic of",1978,NON,NON,NON,
+"Yemen, Republic of",1979,NON,NON,NON,
+"Yemen, Republic of",1980,NON,NON,NON,
+"Yemen, Republic of",1981,NON,NON,NON,
+"Yemen, Republic of",1982,NON,NON,NON,
+"Yemen, Republic of",1983,NON,NON,NON,
+"Yemen, Republic of",1984,NON,NON,NON,
+"Yemen, Republic of",1985,NON,NON,NON,
+"Yemen, Republic of",1986,NON,NON,NON,
+"Yemen, Republic of",1987,NON,NON,NON,
+"Yemen, Republic of",1988,NON,NON,NON,
+"Yemen, Republic of",1989,NON,NON,NON,
 "Yemen, Republic of",1990,OVM,OVM,OVM,US dollar
 "Yemen, Republic of",1991,Fix†,Fix,Fix,US dollar
 "Yemen, Republic of",1992,Fix†,Fix,Fix,US dollar
@@ -9272,8 +9272,8 @@ Zambia,1979,Fix1,Fix,Fix,SDR
 Zambia,1980,Float1,Float,Float,SDR
 Zambia,1981,Float1,Float,Float,SDR
 Zambia,1982,Float1,Float,Float,SDR
-Zambia,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zambia,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Zambia,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Zambia,1984,Basket,Undisclosed Basket,Undisclosed Basket,
 Zambia,1985,Interm3,Interm,Dirty Float,US dollar
 Zambia,1986,Interm3,Interm,Dirty Float,US dollar
 Zambia,1987,Interm3,Interm,Dirty Float,US dollar
@@ -9317,20 +9317,20 @@ Zimbabwe,1976,OVM,OVM,OVM,US dollar
 Zimbabwe,1977,OVM,OVM,OVM,US dollar
 Zimbabwe,1978,OVM,OVM,OVM,US dollar
 Zimbabwe,1979,Interm*2,Interm,Crawling Peg,US dollar
-Zimbabwe,1980,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1981,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1982,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1983,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1984,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1985,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1986,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1987,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1988,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1989,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1990,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1991,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1992,Basket,Undisclosed Basket,Undisclosed Basket,NaN
-Zimbabwe,1993,Basket,Undisclosed Basket,Undisclosed Basket,NaN
+Zimbabwe,1980,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1981,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1982,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1983,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1984,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1985,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1986,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1987,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1988,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1989,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1990,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1991,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1992,Basket,Undisclosed Basket,Undisclosed Basket,
+Zimbabwe,1993,Basket,Undisclosed Basket,Undisclosed Basket,
 Zimbabwe,1994,Interm*1,Interm,Crawling Peg,US dollar
 Zimbabwe,1995,Fix1,Fix,Fix,US dollar
 Zimbabwe,1996,Fix1,Fix,Fix,US dollar
