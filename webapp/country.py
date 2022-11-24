@@ -6,6 +6,7 @@ buffer = io.BytesIO()
 
 def run_app():
 
+    st.set_page_config(page_title="LYS Classification")
     df = pd.read_csv("LYS2022.csv")
     legend = pd.read_csv("legend.csv")
 
