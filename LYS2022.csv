@@ -1967,14 +1967,14 @@ Comoros,2018,Fix†,Fix,Fix,Euro
 Comoros,2019,Fix†,Fix,Fix,Euro
 Comoros,2020,Fix†,Fix,Fix,Euro
 Comoros,2021,Fix†,Fix,Fix,Euro
-"Congo, Democratic Republic of",1974,NON,NON,NON,
-"Congo, Democratic Republic of",1975,NON,NON,NON,
-"Congo, Democratic Republic of",1976,NON,NON,NON,
-"Congo, Democratic Republic of",1977,NON,NON,NON,
-"Congo, Democratic Republic of",1978,NON,NON,NON,
-"Congo, Democratic Republic of",1979,NON,NON,NON,
-"Congo, Democratic Republic of",1980,NON,NON,NON,
-"Congo, Democratic Republic of",1981,NON,NON,NON,
+"Congo, Democratic Republic of",1974,Interm*2,Interm,Crawling Peg,US dollar
+"Congo, Democratic Republic of",1975,Fix†,Fix,Fix,US dollar
+"Congo, Democratic Republic of",1976,Interm1,Interm,Dirty Float,SDR
+"Congo, Democratic Republic of",1977,Float2,Float,Float,SDR
+"Congo, Democratic Republic of",1978,Interm*2,Interm,Crawling Peg,SDR
+"Congo, Democratic Republic of",1979,Interm1,Interm,Dirty Float,SDR
+"Congo, Democratic Republic of",1980,Interm1,Interm,Dirty Float,SDR
+"Congo, Democratic Republic of",1981,Interm1,Interm,Dirty Float,SDR
 "Congo, Democratic Republic of",1982,Float1,Float,Float,SDR
 "Congo, Democratic Republic of",1983,Fix3,Fix,Fix,US dollar
 "Congo, Democratic Republic of",1984,Fix1,Fix,Fix,US dollar
