@@ -31,11 +31,12 @@ def run_app():
     st.pyplot(fig1)
 
 
-    fig, ax = plt.subplots(figsize=(12, 4))
+    fig, ax = plt.subplots(figsize=(12, 12))
 
-    ax = df1.plot.scatter(x='Avg.Delta.Reserves', y='FXI_spot')
+    ax = plt.scatter(df1['Avg.Delta.Reserves'], df1['FXI_spot'])
 
     st.pyplot(fig)
+
 
 
 
