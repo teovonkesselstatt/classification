@@ -1,13 +1,35 @@
 import streamlit as st
 import pandas as pd
 import io
+import matplotlib.pyplot as plt
 
 buffer = io.BytesIO()
 
 def run_app():
 
+    df1 = pd.read_csv("adler_vs_lys.csv")
+
+    df1 = df1[['Country', 'Year', 'FXI_spot','FXI_broad','Avg.Delta.Reserves']]
+
+    country = st.selectbox(
+    'Select a country',
+    df1['Country'].unique(),
+    index = 6)
+
+    fig1, ax1 = plt.subplots(figsize=(12, 4))
+
+    df1[(df1['Country'] == country)].plot(
+        x = "Year", \
+            y = ['FXI_spot', 'FXI_broad'], \
+                style=['-'], \
+                    color=['r','b'], \
+                        ax=ax1)
+
+    df1[(df1['Country'] == country)].plot('Year','Avg.Delta.Reserves',secondary_y=True, ax=ax1)
+
+    st.pyplot(fig1)
+
     df = pd.read_csv("LYS2022.csv")
-    legend = pd.read_csv("legend.csv")
 
     # Dropdown para elegir país
     option = st.selectbox(
