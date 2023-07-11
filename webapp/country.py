@@ -7,6 +7,7 @@ buffer = io.BytesIO()
 
 def run_app():
 
+
     df1 = pd.read_csv("adler_vs_lys.csv")
 
     df1 = df1[['Country', 'Year', 'FXI_spot','FXI_broad','Avg.Delta.Reserves']]
@@ -28,6 +29,26 @@ def run_app():
     df1[(df1['Country'] == country)].plot('Year','Avg.Delta.Reserves',secondary_y=True, ax=ax1)
 
     st.pyplot(fig1)
+
+    st.scatter_chart(data=df1, x='Avg.Delta.Reserves', y='FXI_spot')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     df = pd.read_csv("LYS2022.csv")
 
