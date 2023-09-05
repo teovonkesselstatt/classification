@@ -3,6 +3,7 @@ import pandas as pd
 import io
 import matplotlib.pyplot as plt
 import plotly.express as px
+from streamlit_plotly_events import plotly_events
 
 def run_app():
 
@@ -20,9 +21,7 @@ def run_app():
             zaxis_title='Volatility XR Change'
         ),
     )
-    # Show the interactive plo
-
-    st.pyplot(fig)
+    st.plotly_chart(fig, sharing="streamlit", theme="streamlit")
 
 
 
