@@ -2,40 +2,57 @@ import streamlit as st
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
-
-buffer = io.BytesIO()
+import plotly.express as px
 
 def run_app():
 
 
-    df1 = pd.read_csv("adler_vs_lys.csv")
+    df_z = pd.read_csv("cluster1.csv")
 
-    df1 = df1[['Country', 'Year', 'FXI_spot','FXI_broad','Avg.Delta.Reserves']]
-
-    country = st.selectbox(
-    'Select a country',
-    df1['Country'].unique(),
-    index = 6)
-
-    fig1, ax1 = plt.subplots(figsize=(12, 4))
-
-    df1[(df1['Country'] == country)].plot(
-        x = "Year", \
-            y = ['FXI_spot', 'FXI_broad'], \
-                style=['-'], \
-                    color=['r','b'], \
-                        ax=ax1)
-
-    df1[(df1['Country'] == country)].plot('Year','Avg.Delta.Reserves',secondary_y=True, ax=ax1)
-
-    st.pyplot(fig1)
+    # Create an interactive 3D scatter plot using Plotly
+    #fig = px.scatter_3d(df_z[df_z['Country'] == 'United States'], x='ER.Abs.Change.AVG', y='Avg.Delta.Reserves', z='ER.Volatility.Changes', color='Cluster', hover_data=['Country.Year'])
+    fig = px.scatter_3d(df_z, x='ER.Abs.Change.AVG', y='Avg.Delta.Reserves', z='ER.Volatility.Changes', color='Cluster', hover_data=['Country.Year'])
+    # Customize the layout
+    fig.update_layout(
+        scene=dict(
+            xaxis_title='Mean XR change',
+            yaxis_title='Mean Reserves change',
+            zaxis_title='Volatility XR Change'
+        ),
+    )
+# Show the interactive plo
 
 
-    fig, ax = plt.subplots(figsize=(12, 12))
 
-    ax = plt.scatter(df1['Avg.Delta.Reserves'], df1['FXI_spot'])
 
-    st.pyplot(fig)
+
+    if False:
+        df1 = df1[['Country', 'Year', 'FXI_spot','FXI_broad','Avg.Delta.Reserves']]
+
+        country = st.selectbox(
+        'Select a country',
+        df1['Country'].unique(),
+        index = 6)
+
+        fig1, ax1 = plt.subplots(figsize=(12, 4))
+
+        df1[(df1['Country'] == country)].plot(
+            x = "Year", \
+                y = ['FXI_spot', 'FXI_broad'], \
+                    style=['-'], \
+                        color=['r','b'], \
+                            ax=ax1)
+
+        df1[(df1['Country'] == country)].plot('Year','Avg.Delta.Reserves',secondary_y=True, ax=ax1)
+
+        st.pyplot(fig1)
+
+
+        fig, ax = plt.subplots(figsize=(8, 8))
+
+        ax = plt.scatter(df1['Avg.Delta.Reserves'], df1['FXI_spot'])
+
+        st.pyplot(fig)
 
 
 
