@@ -20,9 +20,9 @@ def run_app():
             zaxis_title='Volatility XR Change'
         ),
     )
-# Show the interactive plo
+    # Show the interactive plo
 
-
+    st.pyplot(fig)
 
 
 
