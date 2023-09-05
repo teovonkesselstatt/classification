@@ -7,7 +7,7 @@ import plotly.express as px
 def run_app():
 
 
-    df_z = pd.read_csv("cluster1.csv")
+    df_z = pd.read_csv("cluster1.csv", encoding='latin-1')
 
     # Create an interactive 3D scatter plot using Plotly
     #fig = px.scatter_3d(df_z[df_z['Country'] == 'United States'], x='ER.Abs.Change.AVG', y='Avg.Delta.Reserves', z='ER.Volatility.Changes', color='Cluster', hover_data=['Country.Year'])
