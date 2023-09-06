@@ -10,5 +10,5 @@ streamlit == 1.9.2
 plotly
 scipy
 scikit
-scikit-learn
+scikit_learn
 sklearn
