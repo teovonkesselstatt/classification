@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import io
 import matplotlib.pyplot as plt
 import plotly.express as px
 from sklearn.cluster import KMeans
@@ -8,9 +7,7 @@ from scipy.stats import zscore
 
 def run_app():
 
-
     cluster_size = st.slider('##### Cluster number:', min_value=2, max_value=10, value=5, step=1)
-
 
     # Read the CSV file, separate NAs and Outliers, z-score
     df = pd.read_csv("base_entera.csv", encoding='latin-1')
