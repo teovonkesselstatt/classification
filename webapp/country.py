@@ -3,6 +3,7 @@ import pandas as pd
 import io
 import matplotlib.pyplot as plt
 import plotly.express as px
+import sklearn
 from sklearn.cluster import KMeans
 from scipy.stats import zscore
 
