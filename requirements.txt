@@ -8,7 +8,7 @@ python_dateutil==2.8.2
 sympy==1.9
 streamlit == 1.9.2
 plotly
+scikit-learn == 1.0.0
 scipy
-scikit
-scikit_learn
-sklearn
+
+
