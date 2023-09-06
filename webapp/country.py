@@ -9,7 +9,7 @@ from scipy.stats import zscore
 def run_app():
 
 
-    cluster_size = st.sidebar.slider('##### Cluster number:', min_value=2, max_value=10, value=5, step=1)
+    cluster_size = st.slider('##### Cluster number:', min_value=2, max_value=10, value=5, step=1)
 
 
     # Read the CSV file, separate NAs and Outliers, z-score
