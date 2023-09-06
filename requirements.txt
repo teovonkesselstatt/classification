@@ -9,5 +9,5 @@ sympy==1.9
 streamlit == 1.9.2
 plotly
 scikit-learn
-sklearn
+python3-sklearn
 scipy
